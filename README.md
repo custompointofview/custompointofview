@@ -9,9 +9,9 @@ I honestly hope this list will never end.
 - 📫 How to reach me: [Personal Website](https://custompointofview.com/) or search for `@custompointofview` (here & there)
 - 🌩️ [And The Latests In...](https://custompointofview.com/latests)
 - 🔭 (Tech) I’m currently working on [GoQu - A small tool in search of Quotes](https://github.com/custompointofview/goqu)
-- 🌱 I’m currently (re)learning: `.reactjs` `.writing` `.drawing` `.design patterns`
+- 🌱 I’m currently (re)learning: `.web development` `.design patterns` `.software architecture` `.writing` `.drawing` 
 - 💬 Ping me about `really` interesting things
-- 🐡 Fun fact: I've won first prize and a medal 🥇 in a fencing 🤺 competition.
+- 🐡 Fun fact about me: I've won first prize and a medal 🥇 in a fencing 🤺 competition.
 
 #### Now This One... I'm Currently Reading 📚
 <!-- GOODREADS-LIST:START -->
@@ -36,7 +36,7 @@ I honestly hope this list will never end.
 - [Black Hammer, Vol. 4: Age of Doom, Part Two](https://www.goodreads.com/review/show/4094862091?utm_medium=api&utm_source=rss) by Jeff Lemire (⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
-<!-- #### Some Stats 👷 -->
+#### Some Stats 👷
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka--> 
 
