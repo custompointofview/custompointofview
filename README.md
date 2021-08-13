@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hello there friend 👋
 
-<!--
-**custompointofview/custompointofview** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Cosmin & I am a practicing polymath with a severe tendency of doing too many things at once.
+I'm enthusiastic about reading, writing, film photography, drawing, illustration & painting, film criticism, teaching and mentoring, tech & tech philosophy.
+I honestly hope this list will never end. 
 
-Here are some ideas to get you started:
+#### This One As Well... 💡
+- 🌲 [My Tree Of Links](https://linktr.ee/custompointofview)
+- 📫 How to reach me: [Personal Website](https://custompointofview.com/) or search for `@custompointofview` (here & there)
+- 🌩️ [And The Latests In...](https://custompointofview.com/latests)
+- 🔭 (Tech) I’m currently working on [GoQu - A small tool in search of Quotes](https://github.com/custompointofview/goqu)
+- 🌱 I’m currently (re)learning: `.reactjs` `.writing` `.drawing` `.design patterns`
+- 💬 Ping me about `really` interesting things
+- 🐡 Fun fact: I've won first prize and a medal 🥇 in a fencing 🤺 competition.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Now This One... I'm Currently Reading 📚
+<!-- GOODREADS-LIST:START -->
+<!-- GOODREADS-LIST:END -->
+
+#### Last 5 Books I've Read 🤓
+<!-- GOODREADS-READ-LIST:START -->
+<!-- GOODREADS-READ-LIST:END -->
+
+<!-- #### Some Stats 👷 -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka--> 
+
