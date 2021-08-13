@@ -36,7 +36,7 @@ I honestly hope this list will never end.
 - [Black Hammer, Vol. 4: Age of Doom, Part Two](https://www.goodreads.com/review/show/4094862091?utm_medium=api&utm_source=rss) by Jeff Lemire (⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
-#### Some Stats 👷
+<!-- #### Some Stats 👷 -->
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka--> 
 
