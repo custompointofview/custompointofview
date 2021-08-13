@@ -29,6 +29,11 @@ I honestly hope this list will never end.
 
 #### Last 5 Books I've Read 🤓
 <!-- GOODREADS-READ-LIST:START -->
+- [Okko: The Cycle of Air (Okko, #3)](https://www.goodreads.com/review/show/4146248977?utm_medium=api&utm_source=rss) by Hub (⭐⭐⭐⭐)
+- [Okko: The Cycle of Earth (Okko, #2)](https://www.goodreads.com/review/show/4146248941?utm_medium=api&utm_source=rss) by Hub (⭐⭐⭐⭐)
+- [Okko: The Cycle of Water (Okko, #1-2)](https://www.goodreads.com/review/show/4146248634?utm_medium=api&utm_source=rss) by Hub (⭐⭐⭐)
+- [Black Hammer, Vol. 5: Reborn](https://www.goodreads.com/review/show/4094862203?utm_medium=api&utm_source=rss) by Jeff Lemire (⭐⭐⭐⭐)
+- [Black Hammer, Vol. 4: Age of Doom, Part Two](https://www.goodreads.com/review/show/4094862091?utm_medium=api&utm_source=rss) by Jeff Lemire (⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 <!-- #### Some Stats 👷 -->
