@@ -28,11 +28,11 @@ I honestly hope this list will never end.
 
 #### Last 5 Books I've Read 🤓
 <!-- GOODREADS-READ-LIST:START -->
-- [Le Serpent et la Lance T01 : Ombre-montagne](https://www.goodreads.com/review/show/4189293352?utm_medium=api&utm_source=rss) by Hub (⭐⭐⭐⭐⭐)
-- [Okko, Tome 10 : Le cycle du vide II (Okko #10)](https://www.goodreads.com/review/show/4178535623?utm_medium=api&utm_source=rss) by Hub (⭐⭐⭐⭐⭐)
-- [Okko, Tome 9 : Le cycle du vide I (Okko #9)](https://www.goodreads.com/review/show/4182231864?utm_medium=api&utm_source=rss) by Hub (⭐⭐⭐⭐⭐)
-- [Okko: The Cycle of Fire (Okko #4)](https://www.goodreads.com/review/show/4146249003?utm_medium=api&utm_source=rss) by Hub (⭐⭐⭐⭐⭐)
-- [Okko: The Cycle of Air (Okko, #3)](https://www.goodreads.com/review/show/4146248977?utm_medium=api&utm_source=rss) by Hub (⭐⭐⭐⭐)
+- [This One Summer](https://www.goodreads.com/review/show/4221347626?utm_medium=api&utm_source=rss) by Mariko Tamaki (⭐⭐⭐⭐)
+- [Torpedo: Volume 5](https://www.goodreads.com/review/show/4209747722?utm_medium=api&utm_source=rss) by Enrique Sánchez Abulí (⭐⭐⭐)
+- [Torpedo: Volume 4](https://www.goodreads.com/review/show/4209747700?utm_medium=api&utm_source=rss) by Enrique Sánchez Abulí (⭐⭐⭐⭐)
+- [Torpedo: Volume 3](https://www.goodreads.com/review/show/4209747660?utm_medium=api&utm_source=rss) by Enrique Sánchez Abulí (⭐⭐⭐⭐)
+- [Torpedo Volume Two](https://www.goodreads.com/review/show/3980827262?utm_medium=api&utm_source=rss) by Enrique Sánchez Abulí (⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 <!-- #### Some Stats 👷 -->
