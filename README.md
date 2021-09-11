@@ -15,13 +15,13 @@ I honestly hope this list will never end.
 
 #### Now This One... I'm Currently Reading 📚
 <!-- GOODREADS-LIST:START -->
-- [A Blink of the Screen: Collected Shorter Fiction](https://www.goodreads.com/review/show/3570112383?utm_medium=api&utm_source=rss) by Terry Pratchett (⭐️4.03)
+- [A Blink of the Screen: Collected Shorter Fiction](https://www.goodreads.com/review/show/3570112383?utm_medium=api&utm_source=rss) by Terry Pratchett (⭐️4.02)
 - [Florile pierdute ale lui Alice Hart](https://www.goodreads.com/review/show/3452153187?utm_medium=api&utm_source=rss) by Holly Ringland (⭐️4.2)
 - [Promethea, Vol. 3](https://www.goodreads.com/review/show/3403029181?utm_medium=api&utm_source=rss) by Alan Moore (⭐️4.12)
 - [The Art of Thinking Clearly](https://www.goodreads.com/review/show/3398126985?utm_medium=api&utm_source=rss) by Rolf Dobelli (⭐️3.82)
 - [Hamlet / Hamlet, Prince of Denmark](https://www.goodreads.com/review/show/3395531630?utm_medium=api&utm_source=rss) by William Shakespeare (⭐️4.2)
 - [Fables, Vol. 8: Wolves](https://www.goodreads.com/review/show/3084491891?utm_medium=api&utm_source=rss) by Bill Willingham (⭐️4.26)
-- [Tenth of December](https://www.goodreads.com/review/show/3349948960?utm_medium=api&utm_source=rss) by George Saunders (⭐️3.96)
+- [Tenth of December](https://www.goodreads.com/review/show/3349948960?utm_medium=api&utm_source=rss) by George Saunders (⭐️3.95)
 - [Copiii din miez de noapte](https://www.goodreads.com/review/show/2605011709?utm_medium=api&utm_source=rss) by Salman Rushdie (⭐️3.95)
 - [Jurnalul Annei Frank](https://www.goodreads.com/review/show/2605011984?utm_medium=api&utm_source=rss) by Anne Frank (⭐️4.33)
 <!-- GOODREADS-LIST:END -->
