@@ -15,7 +15,7 @@ I honestly hope this list will never end.
 
 #### Now This One... I'm Currently Reading 📚
 <!-- GOODREADS-LIST:START -->
-- [Aama, 2: La multitud invisible (Aâma #2)](https://www.goodreads.com/review/show/3204749596?utm_medium=api&utm_source=rss) by Frederik Peeters (⭐️4.16)
+- [Aama, 2: La multitud invisible (Aâma #2)](https://www.goodreads.com/review/show/3204749596?utm_medium=api&utm_source=rss) by Frederik Peeters (⭐️4.17)
 - [A Blink of the Screen: Collected Shorter Fiction](https://www.goodreads.com/review/show/3570112383?utm_medium=api&utm_source=rss) by Terry Pratchett (⭐️4.02)
 - [Florile pierdute ale lui Alice Hart](https://www.goodreads.com/review/show/3452153187?utm_medium=api&utm_source=rss) by Holly Ringland (⭐️4.2)
 - [Promethea, Vol. 3](https://www.goodreads.com/review/show/3403029181?utm_medium=api&utm_source=rss) by Alan Moore (⭐️4.12)
@@ -24,7 +24,7 @@ I honestly hope this list will never end.
 - [Fables, Vol. 8: Wolves](https://www.goodreads.com/review/show/3084491891?utm_medium=api&utm_source=rss) by Bill Willingham (⭐️4.26)
 - [Tenth of December](https://www.goodreads.com/review/show/3349948960?utm_medium=api&utm_source=rss) by George Saunders (⭐️3.95)
 - [Copiii din miez de noapte](https://www.goodreads.com/review/show/2605011709?utm_medium=api&utm_source=rss) by Salman Rushdie (⭐️3.95)
-- [Jurnalul Annei Frank](https://www.goodreads.com/review/show/2605011984?utm_medium=api&utm_source=rss) by Anne Frank (⭐️4.33)
+- [Jurnalul Annei Frank](https://www.goodreads.com/review/show/2605011984?utm_medium=api&utm_source=rss) by Anne Frank (⭐️4.34)
 <!-- GOODREADS-LIST:END -->
 
 #### Last 5 Books I've Read 🤓
