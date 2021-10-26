@@ -16,7 +16,7 @@ I honestly hope this list will never end.
 #### Now This One... I'm Currently Reading 📚
 <!-- GOODREADS-LIST:START -->
 - [Aama, 2: La multitud invisible (Aâma #2)](https://www.goodreads.com/review/show/3204749596?utm_medium=api&utm_source=rss) by Frederik Peeters (⭐️4.17)
-- [A Blink of the Screen: Collected Shorter Fiction](https://www.goodreads.com/review/show/3570112383?utm_medium=api&utm_source=rss) by Terry Pratchett (⭐️4.02)
+- [A Blink of the Screen: Collected Shorter Fiction](https://www.goodreads.com/review/show/3570112383?utm_medium=api&utm_source=rss) by Terry Pratchett (⭐️4.03)
 - [Florile pierdute ale lui Alice Hart](https://www.goodreads.com/review/show/3452153187?utm_medium=api&utm_source=rss) by Holly Ringland (⭐️4.2)
 - [Promethea, Vol. 3](https://www.goodreads.com/review/show/3403029181?utm_medium=api&utm_source=rss) by Alan Moore (⭐️4.12)
 - [The Art of Thinking Clearly](https://www.goodreads.com/review/show/3398126985?utm_medium=api&utm_source=rss) by Rolf Dobelli (⭐️3.82)
