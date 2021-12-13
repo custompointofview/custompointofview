@@ -29,11 +29,11 @@ I honestly hope this list will never end.
 
 #### Last 5 Books I've Read 🤓
 <!-- GOODREADS-READ-LIST:START -->
-- [Muzicofilia. Povestiri despre muzică și creier](https://www.goodreads.com/review/show/2605006756?utm_medium=api&utm_source=rss) by Oliver Sacks (⭐⭐⭐⭐)
-- [Aama, Vol. 1: The Smell of Warm Dust (Aama, #1)](https://www.goodreads.com/review/show/3204749560?utm_medium=api&utm_source=rss) by Frederik Peeters (⭐⭐⭐)
-- [This One Summer](https://www.goodreads.com/review/show/4221347626?utm_medium=api&utm_source=rss) by Mariko Tamaki (⭐⭐⭐⭐)
-- [Torpedo: Volume 5](https://www.goodreads.com/review/show/4209747722?utm_medium=api&utm_source=rss) by Enrique Sánchez Abulí (⭐⭐⭐)
-- [Torpedo: Volume 4](https://www.goodreads.com/review/show/4209747700?utm_medium=api&utm_source=rss) by Enrique Sánchez Abulí (⭐⭐⭐⭐)
+- [Welcome to the Monkey House](https://www.goodreads.com/review/show/4385802925?utm_medium=api&utm_source=rss) by Kurt Vonnegut Jr. (⭐⭐⭐⭐)
+- [Katsuhiro Otomo&apos;s Memories](https://www.goodreads.com/review/show/4385741713?utm_medium=api&utm_source=rss) by Katsuhiro Otomo (⭐⭐⭐)
+- [Domu: A Child&apos;s Dream](https://www.goodreads.com/review/show/4385738859?utm_medium=api&utm_source=rss) by Katsuhiro Otomo (⭐⭐⭐⭐⭐)
+- [Aama, 2: La multitud invisible (Aâma #2)](https://www.goodreads.com/review/show/3204749596?utm_medium=api&utm_source=rss) by Frederik Peeters (⭐⭐⭐⭐)
+- [Ceasornicarul orb](https://www.goodreads.com/review/show/2605007111?utm_medium=api&utm_source=rss) by Richard Dawkins (⭐⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 <!-- #### Some Stats 👷 -->
