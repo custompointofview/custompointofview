@@ -15,6 +15,7 @@ I honestly hope this list will never end.
 
 #### Now This One... I'm Currently Reading 📚
 <!-- GOODREADS-LIST:START -->
+- [ワンパンマン 15 [Wanpanman 15] (Onepunch-Man, #15)](https://www.goodreads.com/review/show/4395580815?utm_medium=api&utm_source=rss) by ONE (⭐️4.38)
 - [Homo ludens: încercare de determinare a elementului ludic al culturii](https://www.goodreads.com/review/show/4386586339?utm_medium=api&utm_source=rss) by Johan Huizinga (⭐️3)
 - [Aama, 3: El desierto de los espejos (Aâma #3)](https://www.goodreads.com/review/show/3204749581?utm_medium=api&utm_source=rss) by Frederik Peeters (⭐️4.13)
 - [A Blink of the Screen: Collected Shorter Fiction](https://www.goodreads.com/review/show/3570112383?utm_medium=api&utm_source=rss) by Terry Pratchett (⭐️4.03)
@@ -24,7 +25,6 @@ I honestly hope this list will never end.
 - [Hamlet / Hamlet, Prince of Denmark](https://www.goodreads.com/review/show/3395531630?utm_medium=api&utm_source=rss) by William Shakespeare (⭐️4.2)
 - [Fables, Vol. 8: Wolves](https://www.goodreads.com/review/show/3084491891?utm_medium=api&utm_source=rss) by Bill Willingham (⭐️4.26)
 - [Tenth of December](https://www.goodreads.com/review/show/3349948960?utm_medium=api&utm_source=rss) by George Saunders (⭐️3.95)
-- [Copiii din miez de noapte](https://www.goodreads.com/review/show/2605011709?utm_medium=api&utm_source=rss) by Salman Rushdie (⭐️3.96)
 <!-- GOODREADS-LIST:END -->
 
 #### Last 5 Books I've Read 🤓
