@@ -16,7 +16,7 @@ I honestly hope this list will never end.
 #### Now This One... I'm Currently Reading 📚
 <!-- GOODREADS-LIST:START -->
 - [Banana Fish, Vol. 1](https://www.goodreads.com/review/show/4419522729?utm_medium=api&utm_source=rss) by Akimi Yoshida (⭐️4.28)
-- [ワンパンマン 25 [Wanpanman 25] (Onepunch-Man, #25)](https://www.goodreads.com/review/show/4416181319?utm_medium=api&utm_source=rss) by ONE (⭐️4.27)
+- [ワンパンマン 25 [Wanpanman 25] (Onepunch-Man, #25)](https://www.goodreads.com/review/show/4416181319?utm_medium=api&utm_source=rss) by ONE (⭐️4.31)
 - [Homo ludens: încercare de determinare a elementului ludic al culturii](https://www.goodreads.com/review/show/4386586339?utm_medium=api&utm_source=rss) by Johan Huizinga (⭐️3)
 - [Aama, 3: El desierto de los espejos (Aâma #3)](https://www.goodreads.com/review/show/3204749581?utm_medium=api&utm_source=rss) by Frederik Peeters (⭐️4.12)
 - [A Blink of the Screen: Collected Shorter Fiction](https://www.goodreads.com/review/show/3570112383?utm_medium=api&utm_source=rss) by Terry Pratchett (⭐️4.03)
