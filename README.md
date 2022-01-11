@@ -29,11 +29,11 @@ I honestly hope this list will never end.
 
 #### Last 5 Books I've Read 🤓
 <!-- GOODREADS-READ-LIST:START -->
-- [Welcome to the Monkey House](https://www.goodreads.com/review/show/4385802925?utm_medium=api&utm_source=rss) by Kurt Vonnegut Jr. (⭐⭐⭐⭐)
-- [Katsuhiro Otomo&apos;s Memories](https://www.goodreads.com/review/show/4385741713?utm_medium=api&utm_source=rss) by Katsuhiro Otomo (⭐⭐⭐)
-- [Domu: A Child&apos;s Dream](https://www.goodreads.com/review/show/4385738859?utm_medium=api&utm_source=rss) by Katsuhiro Otomo (⭐⭐⭐⭐⭐)
-- [Aama, 2: La multitud invisible (Aâma #2)](https://www.goodreads.com/review/show/3204749596?utm_medium=api&utm_source=rss) by Frederik Peeters (⭐⭐⭐⭐)
-- [Ceasornicarul orb](https://www.goodreads.com/review/show/2605007111?utm_medium=api&utm_source=rss) by Richard Dawkins (⭐⭐⭐⭐⭐)
+- [Welcome to the Monkey House](https://www.goodreads.com/review/show/4385802925?utm_medium=api&utm_source=rss) by Kurt Vonnegut Jr. (⭐⭐⭐⭐⭐)
+- [Banana Fish, Vol. 2](https://www.goodreads.com/review/show/4454464757?utm_medium=api&utm_source=rss) by Akimi Yoshida (⭐⭐⭐⭐)
+- [Banana Fish, Vol. 1](https://www.goodreads.com/review/show/4419522729?utm_medium=api&utm_source=rss) by Akimi Yoshida (⭐⭐⭐)
+- [ワンパンマン 24 [Wanpanman 24] (Onepunch-Man, #24)](https://www.goodreads.com/review/show/4416164854?utm_medium=api&utm_source=rss) by ONE (⭐⭐⭐⭐)
+- [One-Punch Man, Vol. 23](https://www.goodreads.com/review/show/4403042695?utm_medium=api&utm_source=rss) by ONE (⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 <!-- #### Some Stats 👷 -->
