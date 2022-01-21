@@ -15,13 +15,13 @@ I honestly hope this list will never end.
 
 #### Now This One... I'm Currently Reading 📚
 <!-- GOODREADS-LIST:START -->
-- [Banana Fish, Vol. 4](https://www.goodreads.com/review/show/4473244487?utm_medium=api&utm_source=rss) by Akimi Yoshida (⭐️4.43)
-- [The Checklist Manifesto: How to Get Things Right](https://www.goodreads.com/review/show/4452663897?utm_medium=api&utm_source=rss) by Atul Gawande (⭐️3.98)
-- [ワンパンマン 25 [Wanpanman 25] (Onepunch-Man, #25)](https://www.goodreads.com/review/show/4416181319?utm_medium=api&utm_source=rss) by ONE (⭐️4.28)
+- [Banana Fish, Vol. 4](https://www.goodreads.com/review/show/4473244487?utm_medium=api&utm_source=rss) by Akimi Yoshida (⭐️4.42)
+- [The Checklist Manifesto: How to Get Things Right](https://www.goodreads.com/review/show/4452663897?utm_medium=api&utm_source=rss) by Atul Gawande (⭐️3.99)
+- [ワンパンマン 25 [Wanpanman 25] (Onepunch-Man, #25)](https://www.goodreads.com/review/show/4416181319?utm_medium=api&utm_source=rss) by ONE (⭐️4.3)
 - [Homo ludens: încercare de determinare a elementului ludic al culturii](https://www.goodreads.com/review/show/4386586339?utm_medium=api&utm_source=rss) by Johan Huizinga (⭐️3)
 - [Aama, 3: El desierto de los espejos (Aâma #3)](https://www.goodreads.com/review/show/3204749581?utm_medium=api&utm_source=rss) by Frederik Peeters (⭐️4.12)
 - [A Blink of the Screen: Collected Shorter Fiction](https://www.goodreads.com/review/show/3570112383?utm_medium=api&utm_source=rss) by Terry Pratchett (⭐️4.03)
-- [Florile pierdute ale lui Alice Hart](https://www.goodreads.com/review/show/3452153187?utm_medium=api&utm_source=rss) by Holly Ringland (⭐️4.14)
+- [Florile pierdute ale lui Alice Hart](https://www.goodreads.com/review/show/3452153187?utm_medium=api&utm_source=rss) by Holly Ringland (⭐️4.15)
 - [Promethea, Vol. 3](https://www.goodreads.com/review/show/3403029181?utm_medium=api&utm_source=rss) by Alan Moore (⭐️4.12)
 - [The Art of Thinking Clearly](https://www.goodreads.com/review/show/3398126985?utm_medium=api&utm_source=rss) by Rolf Dobelli (⭐️3.83)
 - [Hamlet / Hamlet, Prince of Denmark](https://www.goodreads.com/review/show/3395531630?utm_medium=api&utm_source=rss) by William Shakespeare (⭐️4.2)
