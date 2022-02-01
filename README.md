@@ -17,7 +17,7 @@ I honestly hope this list will never end.
 <!-- GOODREADS-LIST:START -->
 - [Banana Fish, Vol. 4](https://www.goodreads.com/review/show/4473244487?utm_medium=api&utm_source=rss) by Akimi Yoshida (⭐️4.43)
 - [The Checklist Manifesto: How to Get Things Right](https://www.goodreads.com/review/show/4452663897?utm_medium=api&utm_source=rss) by Atul Gawande (⭐️3.99)
-- [ワンパンマン 25 [Wanpanman 25] (Onepunch-Man, #25)](https://www.goodreads.com/review/show/4416181319?utm_medium=api&utm_source=rss) by ONE (⭐️4.3)
+- [ワンパンマン 25 [Wanpanman 25] (Onepunch-Man, #25)](https://www.goodreads.com/review/show/4416181319?utm_medium=api&utm_source=rss) by ONE (⭐️4.32)
 - [Homo ludens: încercare de determinare a elementului ludic al culturii](https://www.goodreads.com/review/show/4386586339?utm_medium=api&utm_source=rss) by Johan Huizinga (⭐️3)
 - [Aama, 3: El desierto de los espejos (Aâma #3)](https://www.goodreads.com/review/show/3204749581?utm_medium=api&utm_source=rss) by Frederik Peeters (⭐️4.12)
 - [A Blink of the Screen: Collected Shorter Fiction](https://www.goodreads.com/review/show/3570112383?utm_medium=api&utm_source=rss) by Terry Pratchett (⭐️4.03)
