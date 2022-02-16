@@ -29,11 +29,11 @@ I honestly hope this list will never end.
 
 #### Last 5 Books I've Read 🤓
 <!-- GOODREADS-READ-LIST:START -->
-- [American Experience](https://www.goodreads.com/review/show/4493459567?utm_medium=api&utm_source=rss) by Andrei Dósa (⭐⭐⭐)
-- [Banana Fish, Vol. 3](https://www.goodreads.com/review/show/4454465073?utm_medium=api&utm_source=rss) by Akimi Yoshida (⭐⭐⭐)
-- [Welcome to the Monkey House](https://www.goodreads.com/review/show/4385802925?utm_medium=api&utm_source=rss) by Kurt Vonnegut Jr. (⭐⭐⭐⭐⭐)
-- [Banana Fish, Vol. 2](https://www.goodreads.com/review/show/4454464757?utm_medium=api&utm_source=rss) by Akimi Yoshida (⭐⭐⭐⭐)
-- [Banana Fish, Vol. 1](https://www.goodreads.com/review/show/4419522729?utm_medium=api&utm_source=rss) by Akimi Yoshida (⭐⭐⭐)
+- [Mother Sarah, Tome 11: La Ville de demain (2 of 2)](https://www.goodreads.com/review/show/4547278903?utm_medium=api&utm_source=rss) by Katsuhiro Otomo (⭐⭐⭐⭐)
+- [Mother Sarah, Tome 10: La Ville de demain (1 of 2)](https://www.goodreads.com/review/show/4547278840?utm_medium=api&utm_source=rss) by Katsuhiro Otomo (⭐⭐⭐⭐)
+- [Mother Sarah, Tome 9: Déflagrations](https://www.goodreads.com/review/show/4547278787?utm_medium=api&utm_source=rss) by Katsuhiro Otomo (⭐⭐⭐⭐)
+- [Mother Sarah, Tome 8: Trahisons](https://www.goodreads.com/review/show/4547278692?utm_medium=api&utm_source=rss) by Katsuhiro Otomo (⭐⭐⭐⭐)
+- [La Leyenda de Madre Sarah, No. 7](https://www.goodreads.com/review/show/4547278616?utm_medium=api&utm_source=rss) by Katsuhiro Otomo (⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 <!-- #### Some Stats 👷 -->
