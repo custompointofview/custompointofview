@@ -29,11 +29,11 @@ I honestly hope this list will never end.
 
 #### Last 5 Books I've Read 🤓
 <!-- GOODREADS-READ-LIST:START -->
+- [Banana Fish, Vol. 7](https://www.goodreads.com/review/show/4565519204?utm_medium=api&utm_source=rss) by Akimi Yoshida (⭐⭐⭐)
+- [Banana Fish, Vol. 6](https://www.goodreads.com/review/show/4563243642?utm_medium=api&utm_source=rss) by Akimi Yoshida (⭐⭐⭐⭐)
+- [Banana Fish, Vol. 5](https://www.goodreads.com/review/show/4533555891?utm_medium=api&utm_source=rss) by Akimi Yoshida (⭐⭐⭐⭐)
+- [Hellboy, Vol. 1: Seed of Destruction](https://www.goodreads.com/review/show/3098776330?utm_medium=api&utm_source=rss) by Mike Mignola (⭐⭐⭐⭐)
 - [Mother Sarah, Tome 11: La Ville de demain (2 of 2)](https://www.goodreads.com/review/show/4547278903?utm_medium=api&utm_source=rss) by Katsuhiro Otomo (⭐⭐⭐⭐)
-- [Mother Sarah, Tome 10: La Ville de demain (1 of 2)](https://www.goodreads.com/review/show/4547278840?utm_medium=api&utm_source=rss) by Katsuhiro Otomo (⭐⭐⭐⭐)
-- [Mother Sarah, Tome 9: Déflagrations](https://www.goodreads.com/review/show/4547278787?utm_medium=api&utm_source=rss) by Katsuhiro Otomo (⭐⭐⭐⭐)
-- [Mother Sarah, Tome 8: Trahisons](https://www.goodreads.com/review/show/4547278692?utm_medium=api&utm_source=rss) by Katsuhiro Otomo (⭐⭐⭐⭐)
-- [La Leyenda de Madre Sarah, No. 7](https://www.goodreads.com/review/show/4547278616?utm_medium=api&utm_source=rss) by Katsuhiro Otomo (⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 <!-- #### Some Stats 👷 -->
