@@ -29,11 +29,11 @@ I honestly hope this list will never end.
 
 #### Last 5 Books I've Read 🤓
 <!-- GOODREADS-READ-LIST:START -->
+- [Reasons to Stay Alive](https://www.goodreads.com/review/show/4657856598?utm_medium=api&utm_source=rss) by Matt Haig (⭐⭐⭐)
 - [Banana Fish, Vol. 9](https://www.goodreads.com/review/show/4602429191?utm_medium=api&utm_source=rss) by Akimi Yoshida (⭐⭐⭐⭐)
 - [Banana Fish, Vol. 8](https://www.goodreads.com/review/show/4602429160?utm_medium=api&utm_source=rss) by Akimi Yoshida (⭐⭐⭐⭐)
 - [Hellboy, Vol. 2: Wake the Devil](https://www.goodreads.com/review/show/4560927562?utm_medium=api&utm_source=rss) by Mike Mignola (⭐⭐⭐⭐)
 - [Banana Fish, Vol. 7](https://www.goodreads.com/review/show/4565519204?utm_medium=api&utm_source=rss) by Akimi Yoshida (⭐⭐⭐)
-- [Banana Fish, Vol. 6](https://www.goodreads.com/review/show/4563243642?utm_medium=api&utm_source=rss) by Akimi Yoshida (⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 <!-- #### Some Stats 👷 -->
