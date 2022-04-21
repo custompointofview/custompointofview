@@ -29,11 +29,11 @@ I honestly hope this list will never end.
 
 #### Last 5 Books I've Read 🤓
 <!-- GOODREADS-READ-LIST:START -->
+- [Autumn (Seasons Quartet, #1)](https://www.goodreads.com/review/show/4677215305?utm_medium=api&utm_source=rss) by Karl Ove Knausgård (⭐⭐⭐⭐)
+- [Dark Matter](https://www.goodreads.com/review/show/4646295606?utm_medium=api&utm_source=rss) by Blake Crouch (⭐⭐⭐)
 - [Reasons to Stay Alive](https://www.goodreads.com/review/show/4657856598?utm_medium=api&utm_source=rss) by Matt Haig (⭐⭐⭐)
 - [Banana Fish, Vol. 9](https://www.goodreads.com/review/show/4602429191?utm_medium=api&utm_source=rss) by Akimi Yoshida (⭐⭐⭐⭐)
 - [Banana Fish, Vol. 8](https://www.goodreads.com/review/show/4602429160?utm_medium=api&utm_source=rss) by Akimi Yoshida (⭐⭐⭐⭐)
-- [Hellboy, Vol. 2: Wake the Devil](https://www.goodreads.com/review/show/4560927562?utm_medium=api&utm_source=rss) by Mike Mignola (⭐⭐⭐⭐)
-- [Banana Fish, Vol. 7](https://www.goodreads.com/review/show/4565519204?utm_medium=api&utm_source=rss) by Akimi Yoshida (⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 <!-- #### Some Stats 👷 -->
