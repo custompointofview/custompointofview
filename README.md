@@ -29,11 +29,11 @@ I honestly hope this list will never end.
 
 #### Last 5 Books I've Read 🤓
 <!-- GOODREADS-READ-LIST:START -->
-- [The Spire](https://www.goodreads.com/review/show/4813928706?utm_medium=api&utm_source=rss) by Simon Spurrier (⭐⭐)
-- [Things My Son Needs to Know About the World](https://www.goodreads.com/review/show/4713986456?utm_medium=api&utm_source=rss) by Fredrik Backman (⭐⭐⭐)
-- [Autumn (Seasons Quartet, #1)](https://www.goodreads.com/review/show/4677215305?utm_medium=api&utm_source=rss) by Karl Ove Knausgård (⭐⭐⭐⭐)
-- [Dark Matter](https://www.goodreads.com/review/show/4646295606?utm_medium=api&utm_source=rss) by Blake Crouch (⭐⭐⭐)
-- [Reasons to Stay Alive](https://www.goodreads.com/review/show/4657856598?utm_medium=api&utm_source=rss) by Matt Haig (⭐⭐⭐)
+- [Spring](https://www.goodreads.com/review/show/3879255339?utm_medium=api&utm_source=rss) by Karl Ove Knausgård (⭐⭐⭐)
+- [Hellboy, Vol. 3: The Chained Coffin and Others](https://www.goodreads.com/review/show/4560927579?utm_medium=api&utm_source=rss) by Mike Mignola (⭐⭐⭐⭐)
+- [Homo ludens: încercare de determinare a elementului ludic al culturii](https://www.goodreads.com/review/show/4386586339?utm_medium=api&utm_source=rss) by Johan Huizinga (⭐⭐⭐)
+- [Dao De Jing](https://www.goodreads.com/review/show/4839393226?utm_medium=api&utm_source=rss) by C.C. Tsai (⭐⭐⭐)
+- [Introducing Evolutionary Psychology: A Graphic Guide (Introducing...)](https://www.goodreads.com/review/show/4824479124?utm_medium=api&utm_source=rss) by Dylan Evans (⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 <!-- #### Some Stats 👷 -->
