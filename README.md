@@ -15,16 +15,16 @@ I honestly hope this list will never end.
 
 #### Now This One... I'm Currently Reading 📚
 <!-- GOODREADS-LIST:START -->
-- [Banana Fish, Vol. 10](https://www.goodreads.com/review/show/4602429210?utm_medium=api&utm_source=rss) by Akimi Yoshida (⭐️4.42)
-- [Hellboy, Vol. 3: The Chained Coffin and Others](https://www.goodreads.com/review/show/4560927579?utm_medium=api&utm_source=rss) by Mike Mignola (⭐️4.23)
+- [Banana Fish, Vol. 10](https://www.goodreads.com/review/show/4602429210?utm_medium=api&utm_source=rss) by Akimi Yoshida (⭐️4.43)
 - [The Checklist Manifesto: How to Get Things Right](https://www.goodreads.com/review/show/4452663897?utm_medium=api&utm_source=rss) by Atul Gawande (⭐️4)
 - [ワンパンマン 25 [Wanpanman 25] (Onepunch-Man, #25)](https://www.goodreads.com/review/show/4416181319?utm_medium=api&utm_source=rss) by ONE (⭐️4.35)
-- [Homo ludens: încercare de determinare a elementului ludic al culturii](https://www.goodreads.com/review/show/4386586339?utm_medium=api&utm_source=rss) by Johan Huizinga (⭐️3)
 - [A Blink of the Screen: Collected Shorter Fiction](https://www.goodreads.com/review/show/3570112383?utm_medium=api&utm_source=rss) by Terry Pratchett (⭐️4.02)
 - [Promethea, Vol. 3](https://www.goodreads.com/review/show/3403029181?utm_medium=api&utm_source=rss) by Alan Moore (⭐️4.11)
 - [The Art of Thinking Clearly](https://www.goodreads.com/review/show/3398126985?utm_medium=api&utm_source=rss) by Rolf Dobelli (⭐️3.84)
 - [Hamlet / Hamlet, Prince of Denmark](https://www.goodreads.com/review/show/3395531630?utm_medium=api&utm_source=rss) by William Shakespeare (⭐️4.19)
 - [Fables, Vol. 8: Wolves](https://www.goodreads.com/review/show/3084491891?utm_medium=api&utm_source=rss) by Bill Willingham (⭐️4.26)
+- [Tenth of December](https://www.goodreads.com/review/show/3349948960?utm_medium=api&utm_source=rss) by George Saunders (⭐️3.97)
+- [Copiii din miez de noapte](https://www.goodreads.com/review/show/2605011709?utm_medium=api&utm_source=rss) by Salman Rushdie (⭐️3.95)
 <!-- GOODREADS-LIST:END -->
 
 #### Last 5 Books I've Read 🤓
