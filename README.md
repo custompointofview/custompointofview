@@ -15,7 +15,7 @@ I honestly hope this list will never end.
 
 #### Now This One... I'm Currently Reading 📚
 <!-- GOODREADS-LIST:START -->
-- [Banana Fish, Vol. 10](https://www.goodreads.com/review/show/4602429210?utm_medium=api&utm_source=rss) by Akimi Yoshida (⭐️4.43)
+- [Banana Fish, Vol. 10](https://www.goodreads.com/review/show/4602429210?utm_medium=api&utm_source=rss) by Akimi Yoshida (⭐️4.42)
 - [The Checklist Manifesto: How to Get Things Right](https://www.goodreads.com/review/show/4452663897?utm_medium=api&utm_source=rss) by Atul Gawande (⭐️4)
 - [ワンパンマン 25 [Wanpanman 25] (Onepunch-Man, #25)](https://www.goodreads.com/review/show/4416181319?utm_medium=api&utm_source=rss) by ONE (⭐️4.35)
 - [A Blink of the Screen: Collected Shorter Fiction](https://www.goodreads.com/review/show/3570112383?utm_medium=api&utm_source=rss) by Terry Pratchett (⭐️4.02)
