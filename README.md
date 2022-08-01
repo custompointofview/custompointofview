@@ -29,11 +29,11 @@ I honestly hope this list will never end.
 
 #### Last 5 Books I've Read 🤓
 <!-- GOODREADS-READ-LIST:START -->
-- [Spring](https://www.goodreads.com/review/show/3879255339?utm_medium=api&utm_source=rss) by Karl Ove Knausgård (⭐⭐⭐)
-- [Hellboy, Vol. 3: The Chained Coffin and Others](https://www.goodreads.com/review/show/4560927579?utm_medium=api&utm_source=rss) by Mike Mignola (⭐⭐⭐⭐)
-- [Homo ludens: încercare de determinare a elementului ludic al culturii](https://www.goodreads.com/review/show/4386586339?utm_medium=api&utm_source=rss) by Johan Huizinga (⭐⭐⭐)
-- [Dao De Jing](https://www.goodreads.com/review/show/4839393226?utm_medium=api&utm_source=rss) by C.C. Tsai (⭐⭐⭐)
-- [Introducing Evolutionary Psychology: A Graphic Guide (Introducing...)](https://www.goodreads.com/review/show/4824479124?utm_medium=api&utm_source=rss) by Dylan Evans (⭐⭐⭐)
+- [20th Century Boys, Band 6 (20th Century Boys, #6)](https://www.goodreads.com/review/show/4866660784?utm_medium=api&utm_source=rss) by Naoki Urasawa (⭐⭐⭐⭐)
+- [20th Century Boys, Band 5 (20th Century Boys, #5)](https://www.goodreads.com/review/show/4866660775?utm_medium=api&utm_source=rss) by Naoki Urasawa (⭐⭐⭐⭐⭐)
+- [20th Century Boys, Band 4 (20th Century Boys, #4)](https://www.goodreads.com/review/show/4866660755?utm_medium=api&utm_source=rss) by Naoki Urasawa (⭐⭐⭐⭐)
+- [20th Century Boys, Band 3](https://www.goodreads.com/review/show/4866660744?utm_medium=api&utm_source=rss) by Naoki Urasawa (⭐⭐⭐⭐)
+- [20th Century Boys, Volume 2: The Prophet](https://www.goodreads.com/review/show/4866659875?utm_medium=api&utm_source=rss) by Naoki Urasawa (⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 <!-- #### Some Stats 👷 -->
