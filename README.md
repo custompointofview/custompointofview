@@ -29,11 +29,11 @@ I honestly hope this list will never end.
 
 #### Last 5 Books I've Read 🤓
 <!-- GOODREADS-READ-LIST:START -->
-- [20th Century Boys, Band 6 (20th Century Boys, #6)](https://www.goodreads.com/review/show/4866660784?utm_medium=api&utm_source=rss) by Naoki Urasawa (⭐⭐⭐⭐)
-- [20th Century Boys, Band 5 (20th Century Boys, #5)](https://www.goodreads.com/review/show/4866660775?utm_medium=api&utm_source=rss) by Naoki Urasawa (⭐⭐⭐⭐⭐)
-- [20th Century Boys, Band 4 (20th Century Boys, #4)](https://www.goodreads.com/review/show/4866660755?utm_medium=api&utm_source=rss) by Naoki Urasawa (⭐⭐⭐⭐)
-- [20th Century Boys, Band 3](https://www.goodreads.com/review/show/4866660744?utm_medium=api&utm_source=rss) by Naoki Urasawa (⭐⭐⭐⭐)
-- [20th Century Boys, Volume 2: The Prophet](https://www.goodreads.com/review/show/4866659875?utm_medium=api&utm_source=rss) by Naoki Urasawa (⭐⭐⭐⭐)
+- [The Checklist Manifesto: How to Get Things Right](https://www.goodreads.com/review/show/4452663897?utm_medium=api&utm_source=rss) by Atul Gawande (⭐⭐⭐⭐)
+- [LOGO Modernism](https://www.goodreads.com/review/show/4936089290?utm_medium=api&utm_source=rss) by Jens Müller (⭐⭐⭐)
+- [The Circle: Discovery of the Circle](https://www.goodreads.com/review/show/4935192917?utm_medium=api&utm_source=rss) by Bruno Munari (⭐⭐⭐)
+- [Shangri-La](https://www.goodreads.com/review/show/4927253539?utm_medium=api&utm_source=rss) by Mathieu Bablet (⭐⭐⭐)
+- [20th Century Boys, Tome 22 (20th Century Boys #22)](https://www.goodreads.com/review/show/4894771159?utm_medium=api&utm_source=rss) by Naoki Urasawa (⭐⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 <!-- #### Some Stats 👷 -->
