@@ -29,11 +29,11 @@ I honestly hope this list will never end.
 
 #### Last 5 Books I've Read 🤓
 <!-- GOODREADS-READ-LIST:START -->
+- [Adrastea](https://www.goodreads.com/review/show/4947361133?utm_medium=api&utm_source=rss) by Mathieu Bablet (⭐⭐⭐)
+- [100 Bullets, Vol. 3: Hang Up on the Hang Low](https://www.goodreads.com/review/show/4962834679?utm_medium=api&utm_source=rss) by Brian Azzarello (⭐⭐⭐)
+- [100 Bullets, Vol. 2: Split Second Chance](https://www.goodreads.com/review/show/4950105900?utm_medium=api&utm_source=rss) by Brian Azzarello (⭐⭐⭐)
+- [The Days Run Away Like Wild Horses Over the Hills](https://www.goodreads.com/review/show/4958492769?utm_medium=api&utm_source=rss) by Charles Bukowski (⭐⭐⭐)
 - [100 Bullets, Vol. 1: First Shot, Last Call](https://www.goodreads.com/review/show/3098784807?utm_medium=api&utm_source=rss) by Brian Azzarello (⭐⭐⭐⭐⭐)
-- [Carbon &amp; Silicon](https://www.goodreads.com/review/show/4929421634?utm_medium=api&utm_source=rss) by Mathieu Bablet (⭐⭐⭐⭐)
-- [The Checklist Manifesto: How to Get Things Right](https://www.goodreads.com/review/show/4452663897?utm_medium=api&utm_source=rss) by Atul Gawande (⭐⭐⭐⭐)
-- [LOGO Modernism](https://www.goodreads.com/review/show/4936089290?utm_medium=api&utm_source=rss) by Jens Müller (⭐⭐⭐)
-- [The Circle: Discovery of the Circle](https://www.goodreads.com/review/show/4935192917?utm_medium=api&utm_source=rss) by Bruno Munari (⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 <!-- #### Some Stats 👷 -->
