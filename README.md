@@ -29,11 +29,11 @@ I honestly hope this list will never end.
 
 #### Last 5 Books I've Read 🤓
 <!-- GOODREADS-READ-LIST:START -->
+- [Introducing Philosophy of Science: A Graphic Guide](https://www.goodreads.com/review/show/5011513785?utm_medium=api&utm_source=rss) by Ziauddin Sardar (⭐⭐⭐)
 - [Adrastea](https://www.goodreads.com/review/show/4947361133?utm_medium=api&utm_source=rss) by Mathieu Bablet (⭐⭐⭐)
 - [100 Bullets, Vol. 3: Hang Up on the Hang Low](https://www.goodreads.com/review/show/4962834679?utm_medium=api&utm_source=rss) by Brian Azzarello (⭐⭐⭐)
 - [100 Bullets, Vol. 2: Split Second Chance](https://www.goodreads.com/review/show/4950105900?utm_medium=api&utm_source=rss) by Brian Azzarello (⭐⭐⭐)
 - [The Days Run Away Like Wild Horses Over the Hills](https://www.goodreads.com/review/show/4958492769?utm_medium=api&utm_source=rss) by Charles Bukowski (⭐⭐⭐)
-- [100 Bullets, Vol. 1: First Shot, Last Call](https://www.goodreads.com/review/show/3098784807?utm_medium=api&utm_source=rss) by Brian Azzarello (⭐⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 <!-- #### Some Stats 👷 -->
