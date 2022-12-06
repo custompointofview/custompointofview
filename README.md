@@ -29,11 +29,11 @@ I honestly hope this list will never end.
 
 #### Last 5 Books I've Read 🤓
 <!-- GOODREADS-READ-LIST:START -->
+- [The Graveyard Book, Volume 2](https://www.goodreads.com/review/show/5119477800?utm_medium=api&utm_source=rss) by P. Craig Russell (⭐⭐⭐⭐)
+- [The Graveyard Book, Volume 1](https://www.goodreads.com/review/show/5119478009?utm_medium=api&utm_source=rss) by P. Craig Russell (⭐⭐⭐⭐)
+- [Introducing Economics: A Graphic Guide (Introducing...)](https://www.goodreads.com/review/show/5117248366?utm_medium=api&utm_source=rss) by David Orrell (⭐⭐⭐)
 - [100 Bullets, Vol. 5: The Counterfifth Detective](https://www.goodreads.com/review/show/5046284922?utm_medium=api&utm_source=rss) by Brian Azzarello (⭐⭐⭐⭐⭐)
 - [100 Bullets, Vol. 4: A Foregone Tomorrow](https://www.goodreads.com/review/show/4969438956?utm_medium=api&utm_source=rss) by Brian Azzarello (⭐⭐⭐)
-- [Introducing Philosophy of Science: A Graphic Guide](https://www.goodreads.com/review/show/5011513785?utm_medium=api&utm_source=rss) by Ziauddin Sardar (⭐⭐⭐)
-- [Adrastea](https://www.goodreads.com/review/show/4947361133?utm_medium=api&utm_source=rss) by Mathieu Bablet (⭐⭐⭐)
-- [100 Bullets, Vol. 3: Hang Up on the Hang Low](https://www.goodreads.com/review/show/4962834679?utm_medium=api&utm_source=rss) by Brian Azzarello (⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 <!-- #### Some Stats 👷 -->
