@@ -29,11 +29,11 @@ I honestly hope this list will never end.
 
 #### Last 5 Books I've Read 🤓
 <!-- GOODREADS-READ-LIST:START -->
-- [The Graveyard Book, Volume 2](https://www.goodreads.com/review/show/5119477800?utm_medium=api&utm_source=rss) by P. Craig Russell (⭐⭐⭐⭐)
-- [The Graveyard Book, Volume 1](https://www.goodreads.com/review/show/5119478009?utm_medium=api&utm_source=rss) by P. Craig Russell (⭐⭐⭐⭐)
-- [Introducing Economics: A Graphic Guide (Introducing...)](https://www.goodreads.com/review/show/5117248366?utm_medium=api&utm_source=rss) by David Orrell (⭐⭐⭐)
-- [100 Bullets, Vol. 5: The Counterfifth Detective](https://www.goodreads.com/review/show/5046284922?utm_medium=api&utm_source=rss) by Brian Azzarello (⭐⭐⭐⭐⭐)
-- [100 Bullets, Vol. 4: A Foregone Tomorrow](https://www.goodreads.com/review/show/4969438956?utm_medium=api&utm_source=rss) by Brian Azzarello (⭐⭐⭐)
+- [Noi](https://www.goodreads.com/review/show/4084830606?utm_medium=api&utm_source=rss) by Yevgeny Zamyatin (⭐⭐⭐⭐⭐)
+- [Child of God](https://www.goodreads.com/review/show/5244707336?utm_medium=api&utm_source=rss) by Cormac McCarthy (⭐⭐⭐⭐)
+- [100 Bullets, Vol. 8: The Hard Way](https://www.goodreads.com/review/show/5194511661?utm_medium=api&utm_source=rss) by Brian Azzarello (⭐⭐⭐)
+- [100 Bullets, Vol. 7: Samurai](https://www.goodreads.com/review/show/5194511599?utm_medium=api&utm_source=rss) by Brian Azzarello (⭐⭐⭐)
+- [100 Bullets, Vol. 6: Six Feet Under the Gun](https://www.goodreads.com/review/show/5046354007?utm_medium=api&utm_source=rss) by Brian Azzarello (⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 <!-- #### Some Stats 👷 -->
