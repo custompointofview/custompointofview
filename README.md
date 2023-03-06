@@ -29,11 +29,11 @@ I honestly hope this list will never end.
 
 #### Last 5 Books I've Read 🤓
 <!-- GOODREADS-READ-LIST:START -->
+- [Saga, Volume 8](https://www.goodreads.com/review/show/5388702472?utm_medium=api&utm_source=rss) by Brian K. Vaughan (⭐⭐⭐⭐⭐)
 - [Noi](https://www.goodreads.com/review/show/4084830606?utm_medium=api&utm_source=rss) by Yevgeny Zamyatin (⭐⭐⭐⭐⭐)
 - [Child of God](https://www.goodreads.com/review/show/5244707336?utm_medium=api&utm_source=rss) by Cormac McCarthy (⭐⭐⭐⭐)
 - [100 Bullets, Vol. 8: The Hard Way](https://www.goodreads.com/review/show/5194511661?utm_medium=api&utm_source=rss) by Brian Azzarello (⭐⭐⭐)
 - [100 Bullets, Vol. 7: Samurai](https://www.goodreads.com/review/show/5194511599?utm_medium=api&utm_source=rss) by Brian Azzarello (⭐⭐⭐)
-- [100 Bullets, Vol. 6: Six Feet Under the Gun](https://www.goodreads.com/review/show/5046354007?utm_medium=api&utm_source=rss) by Brian Azzarello (⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 <!-- #### Some Stats 👷 -->
