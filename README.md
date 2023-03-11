@@ -16,7 +16,7 @@ I honestly hope this list will never end.
 #### Now This One... I'm Currently Reading 📚
 <!-- GOODREADS-LIST:START -->
 - [Banana Fish, Vol. 10](https://www.goodreads.com/review/show/4602429210?utm_medium=api&utm_source=rss) by Akimi Yoshida (⭐️4.46)
-- [ワンパンマン 25 [Wanpanman 25] (Onepunch-Man, #25)](https://www.goodreads.com/review/show/4416181319?utm_medium=api&utm_source=rss) by ONE (⭐️4.37)
+- [ワンパンマン 25 [Wanpanman 25] (Onepunch-Man, #25)](https://www.goodreads.com/review/show/4416181319?utm_medium=api&utm_source=rss) by ONE (⭐️4.36)
 - [A Blink of the Screen: Collected Shorter Fiction](https://www.goodreads.com/review/show/3570112383?utm_medium=api&utm_source=rss) by Terry Pratchett (⭐️4.03)
 - [Promethea, Vol. 3](https://www.goodreads.com/review/show/3403029181?utm_medium=api&utm_source=rss) by Alan Moore (⭐️4.12)
 - [The Art of Thinking Clearly](https://www.goodreads.com/review/show/3398126985?utm_medium=api&utm_source=rss) by Rolf Dobelli (⭐️3.84)
