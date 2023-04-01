@@ -28,11 +28,11 @@ I honestly hope this list will never end.
 
 #### Last 5 Books I've Read 🤓
 <!-- GOODREADS-READ-LIST:START -->
-- [Saga, Volume 8](https://www.goodreads.com/review/show/5388702472?utm_medium=api&utm_source=rss) by Brian K. Vaughan (⭐⭐⭐⭐⭐)
-- [Noi](https://www.goodreads.com/review/show/4084830606?utm_medium=api&utm_source=rss) by Yevgeny Zamyatin (⭐⭐⭐⭐⭐)
-- [Child of God](https://www.goodreads.com/review/show/5244707336?utm_medium=api&utm_source=rss) by Cormac McCarthy (⭐⭐⭐⭐)
-- [100 Bullets, Vol. 8: The Hard Way](https://www.goodreads.com/review/show/5194511661?utm_medium=api&utm_source=rss) by Brian Azzarello (⭐⭐⭐)
-- [100 Bullets, Vol. 7: Samurai](https://www.goodreads.com/review/show/5194511599?utm_medium=api&utm_source=rss) by Brian Azzarello (⭐⭐⭐)
+- [ワンパンマン 27 タツマキ全開 [One Punch Man 27: Tatsumaki Zenkai]](https://www.goodreads.com/review/show/5451604652?utm_medium=api&utm_source=rss) by ONE (⭐⭐⭐⭐)
+- [ワンパンマン 26 未知 [One Punch Man 26: Michi]](https://www.goodreads.com/review/show/5451604619?utm_medium=api&utm_source=rss) by ONE (⭐⭐⭐⭐)
+- [ワンパンマン 25 [Wanpanman 25] (Onepunch-Man, #25)](https://www.goodreads.com/review/show/4416181319?utm_medium=api&utm_source=rss) by ONE (⭐⭐⭐⭐)
+- [The Midnight Library](https://www.goodreads.com/review/show/5446660762?utm_medium=api&utm_source=rss) by Matt Haig (⭐⭐⭐)
+- [Fail, Fail Again, Fail Better](https://www.goodreads.com/review/show/5398703285?utm_medium=api&utm_source=rss) by Pema Chödrön (⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 <!-- #### Some Stats 👷 -->
