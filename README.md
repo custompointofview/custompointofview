@@ -15,8 +15,8 @@ I honestly hope this list will never end.
 
 #### Now This One... I'm Currently Reading 📚
 <!-- GOODREADS-LIST:START -->
-- [Banana Fish, Vol. 10](https://www.goodreads.com/review/show/4602429210?utm_medium=api&utm_source=rss) by Akimi Yoshida (⭐️4.47)
-- [A Blink of the Screen: Collected Shorter Fiction](https://www.goodreads.com/review/show/3570112383?utm_medium=api&utm_source=rss) by A. S. Byatt (⭐️4.03)
+- [Banana Fish, Vol. 10](https://www.goodreads.com/review/show/4602429210?utm_medium=api&utm_source=rss) by Akimi Yoshida (⭐️4.46)
+- [A Blink of the Screen: Collected Shorter Fiction](https://www.goodreads.com/review/show/3570112383?utm_medium=api&utm_source=rss) by A.S. Byatt (⭐️4.03)
 - [Promethea, Vol. 3](https://www.goodreads.com/review/show/3403029181?utm_medium=api&utm_source=rss) by J.H. Williams III (⭐️4.12)
 - [The Art of Thinking Clearly](https://www.goodreads.com/review/show/3398126985?utm_medium=api&utm_source=rss) by Rolf Dobelli (⭐️3.84)
 - [Hamlet / Hamlet, Prince of Denmark](https://www.goodreads.com/review/show/3395531630?utm_medium=api&utm_source=rss) by William Shakespeare (⭐️4.28)
