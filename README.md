@@ -28,11 +28,11 @@ I honestly hope this list will never end.
 
 #### Last 5 Books I've Read 🤓
 <!-- GOODREADS-READ-LIST:START -->
+- [Old Possum's Book of Practical Cats](https://www.goodreads.com/review/show/5507972517?utm_medium=api&utm_source=rss) by T.S. Eliot (⭐⭐⭐⭐)
+- [Pity the Reader: On Writing With Style](https://www.goodreads.com/review/show/5507969921?utm_medium=api&utm_source=rss) by Kurt Vonnegut Jr. (⭐⭐⭐⭐)
 - [When Breath Becomes Air](https://www.goodreads.com/review/show/5454705913?utm_medium=api&utm_source=rss) by Paul Kalanithi (⭐⭐⭐⭐)
 - [ワンパンマン 27 タツマキ全開 [One Punch Man 27: Tatsumaki Zenkai]](https://www.goodreads.com/review/show/5451604652?utm_medium=api&utm_source=rss) by ONE (⭐⭐⭐⭐)
 - [ワンパンマン 26 未知 [One Punch Man 26: Michi]](https://www.goodreads.com/review/show/5451604619?utm_medium=api&utm_source=rss) by ONE (⭐⭐⭐⭐)
-- [ワンパンマン 25 [Wanpanman 25] (Onepunch-Man, #25)](https://www.goodreads.com/review/show/4416181319?utm_medium=api&utm_source=rss) by ONE (⭐⭐⭐⭐)
-- [The Midnight Library](https://www.goodreads.com/review/show/5446660762?utm_medium=api&utm_source=rss) by Matt Haig (⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 <!-- #### Some Stats 👷 -->
