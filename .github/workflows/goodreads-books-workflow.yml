@@ -19,6 +19,7 @@ jobs:
           shelf: "currently-reading"
   update-readme-with-goodreads-books-read:
     name: Update this repo's README with the last 5 books you've read
+    needs: update-readme-with-goodreads-books
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
