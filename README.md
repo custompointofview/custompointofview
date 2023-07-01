@@ -28,11 +28,11 @@ I honestly hope this list will never end.
 
 #### Last 5 Books I've Read 🤓
 <!-- GOODREADS-READ-LIST:START -->
+- [101 Essays That Will Change The Way You Think](https://www.goodreads.com/review/show/5348727585?utm_medium=api&utm_source=rss) by Brianna Wiest (⭐⭐)
 - [Zen in the Art of Writing: Releasing the Creative Genius Within You](https://www.goodreads.com/review/show/4658745777?utm_medium=api&utm_source=rss) by Ray Bradbury (⭐⭐⭐⭐)
 - [A Swim in a Pond in the Rain: In Which Four Russians Give a Master Class on Writing, Reading, and Life](https://www.goodreads.com/review/show/5558156153?utm_medium=api&utm_source=rss) by George Saunders (⭐⭐⭐⭐⭐)
 - [Old Possum's Book of Practical Cats](https://www.goodreads.com/review/show/5507972517?utm_medium=api&utm_source=rss) by T.S. Eliot (⭐⭐⭐⭐)
 - [Pity the Reader: On Writing With Style](https://www.goodreads.com/review/show/5507969921?utm_medium=api&utm_source=rss) by Kurt Vonnegut Jr. (⭐⭐⭐⭐)
-- [When Breath Becomes Air](https://www.goodreads.com/review/show/5454705913?utm_medium=api&utm_source=rss) by Paul Kalanithi (⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 <!-- #### Some Stats 👷 -->
