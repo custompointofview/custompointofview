@@ -12,7 +12,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-        clean: true
+        with:
+          clean: true
       - uses: zwacky/goodreads-profile-workflow@v1.1.2
         with:
           # Replace this with your goodreads user id (go to "My Books" on goodreads to see it in the URL)
@@ -24,7 +25,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-        clean: true
+        with:
+          clean: true
       - uses: zwacky/goodreads-profile-workflow@v1.1.2
         with:
           # Replace this with your goodreads user id (go to "My Books" on goodreads to see it in the URL)
