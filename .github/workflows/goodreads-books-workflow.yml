@@ -11,7 +11,8 @@ jobs:
     name: Update this repo's README with what you're currently reading
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
+        clean: true
       - uses: zwacky/goodreads-profile-workflow@v1.1.2
         with:
           # Replace this with your goodreads user id (go to "My Books" on goodreads to see it in the URL)
@@ -22,7 +23,8 @@ jobs:
     needs: update-readme-with-goodreads-books
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
+        clean: true
       - uses: zwacky/goodreads-profile-workflow@v1.1.2
         with:
           # Replace this with your goodreads user id (go to "My Books" on goodreads to see it in the URL)
