@@ -22,7 +22,7 @@ I honestly hope this list will never end.
 - [Hamlet / Hamlet, Prince of Denmark](https://www.goodreads.com/review/show/3395531630?utm_medium=api&utm_source=rss) by William Shakespeare (⭐️4.31)
 - [Fables, Vol. 8: Wolves (Fables, #8)](https://www.goodreads.com/review/show/3084491891?utm_medium=api&utm_source=rss) by Bill Willingham (⭐️4.26)
 - [Tenth of December](https://www.goodreads.com/review/show/3349948960?utm_medium=api&utm_source=rss) by George Saunders (⭐️3.98)
-- [Copiii din miez de noapte](https://www.goodreads.com/review/show/2605011709?utm_medium=api&utm_source=rss) by Salman Rushdie (⭐️3.96)
+- [Copiii din miez de noapte](https://www.goodreads.com/review/show/2605011709?utm_medium=api&utm_source=rss) by Salman Rushdie (⭐️3.97)
 - [Jurnalul Annei Frank](https://www.goodreads.com/review/show/2605011984?utm_medium=api&utm_source=rss) by Anne Frank (⭐️4.3)
 <!-- GOODREADS-LIST:END -->
 
