@@ -2,7 +2,10 @@
 
 My name is Cosmin & I am a practicing polymath with a severe tendency of doing too many things at once.
 I'm enthusiastic about reading, writing, film photography, drawing, illustration & painting, film criticism, teaching and mentoring, tech & tech philosophy.
-I honestly hope this list will never end. 
+I honestly hope this list will never end.
+
+#### This One... 🧠
+[![My Skills](https://skillicons.dev/icons?i=linux,html,css,tailwind,js,ts,nextjs,gatsby,nodejs,react,go,py,dart,flutter,figma,webpack,electron,rabbitmq,raspberrypi,jenkins,netlify,ansible,aws,azure,gcp,mongodb,redis,sqlite,bash, powershell,docker,git,vscode&perline=9)](https://skillicons.dev)
 
 #### This One As Well... 💡
 - 🌲 [My Tree Of Links](https://linktr.ee/custompointofview)
