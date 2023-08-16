@@ -31,11 +31,11 @@ I honestly hope this list will never end.
 
 #### Last 5 Books I've Read 🤓
 <!-- GOODREADS-READ-LIST:START -->
+- [Assassin Nation, Vol. 1: Number One With a Bullet](https://www.goodreads.com/review/show/5763956854?utm_medium=api&utm_source=rss) by Kyle Starks (⭐⭐⭐)
 - [Darwin: Portrait of a Genius](https://www.goodreads.com/review/show/5748279234?utm_medium=api&utm_source=rss) by Paul  Johnson (⭐⭐⭐)
 - [Heavy Liquid](https://www.goodreads.com/review/show/5748277838?utm_medium=api&utm_source=rss) by Paul Pope (⭐⭐⭐)
 - [The Collected Fantasies, Vol. 8: Mississippi River (The Collected Fantasies of Jean Giraud, #8)](https://www.goodreads.com/review/show/3900854538?utm_medium=api&utm_source=rss) by Mœbius (⭐⭐⭐⭐⭐)
 - [101 Essays That Will Change The Way You Think](https://www.goodreads.com/review/show/5348727585?utm_medium=api&utm_source=rss) by Brianna Wiest (⭐⭐)
-- [Zen in the Art of Writing: Releasing the Creative Genius Within You](https://www.goodreads.com/review/show/4658745777?utm_medium=api&utm_source=rss) by Ray Bradbury (⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 <!-- #### Some Stats 👷 -->
