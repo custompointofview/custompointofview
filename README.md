@@ -31,11 +31,11 @@ I honestly hope this list will never end.
 
 #### Last 5 Books I've Read 🤓
 <!-- GOODREADS-READ-LIST:START -->
+- [Prince of Cats](https://www.goodreads.com/review/show/5801507728?utm_medium=api&utm_source=rss) by Ron Wimberly (⭐⭐⭐⭐⭐)
 - [The Fall of the House of West (Battling Boy, 3)](https://www.goodreads.com/review/show/5781312351?utm_medium=api&utm_source=rss) by Paul Pope (⭐⭐⭐)
 - [The Rise of Aurora West (Battling Boy, 2)](https://www.goodreads.com/review/show/5781312337?utm_medium=api&utm_source=rss) by Paul Pope (⭐⭐⭐)
 - [The Death of Haggard West (The Invincible Haggard West)](https://www.goodreads.com/review/show/5771934660?utm_medium=api&utm_source=rss) by Paul Pope (⭐⭐⭐⭐)
 - [Battling Boy (Battling Boy, 1)](https://www.goodreads.com/review/show/5771933651?utm_medium=api&utm_source=rss) by Paul Pope (⭐⭐⭐⭐)
-- [Assassin Nation, Vol. 1: Number One With a Bullet](https://www.goodreads.com/review/show/5763956854?utm_medium=api&utm_source=rss) by Kyle Starks (⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 <!-- #### Some Stats 👷 -->
