@@ -32,11 +32,11 @@ I honestly hope this list will never end.
 
 #### Last 5 Books I've Read 🤓
 <!-- GOODREADS-READ-LIST:START -->
-- [Prince of Cats](https://www.goodreads.com/review/show/5801507728?utm_medium=api&utm_source=rss) by Ron Wimberly (⭐⭐⭐⭐⭐)
-- [The Fall of the House of West (Battling Boy, 3)](https://www.goodreads.com/review/show/5781312351?utm_medium=api&utm_source=rss) by Paul Pope (⭐⭐⭐)
-- [The Rise of Aurora West (Battling Boy, 2)](https://www.goodreads.com/review/show/5781312337?utm_medium=api&utm_source=rss) by Paul Pope (⭐⭐⭐)
-- [The Death of Haggard West (The Invincible Haggard West)](https://www.goodreads.com/review/show/5771934660?utm_medium=api&utm_source=rss) by Paul Pope (⭐⭐⭐⭐)
-- [Battling Boy (Battling Boy, 1)](https://www.goodreads.com/review/show/5771933651?utm_medium=api&utm_source=rss) by Paul Pope (⭐⭐⭐⭐)
+- [Lady Killer, Volume 2](https://www.goodreads.com/review/show/5829901975?utm_medium=api&utm_source=rss) by Joëlle Jones (⭐⭐⭐⭐)
+- [Lady Killer, Volume 1](https://www.goodreads.com/review/show/5829901757?utm_medium=api&utm_source=rss) by Joëlle Jones (⭐⭐⭐⭐)
+- [Here](https://www.goodreads.com/review/show/5824682524?utm_medium=api&utm_source=rss) by Richard McGuire (⭐⭐⭐⭐⭐)
+- [Escapo](https://www.goodreads.com/review/show/5824667378?utm_medium=api&utm_source=rss) by Paul Pope (⭐⭐⭐⭐)
+- [100%](https://www.goodreads.com/review/show/5823361551?utm_medium=api&utm_source=rss) by Paul Pope (⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 <!-- #### Some Stats 👷 -->
