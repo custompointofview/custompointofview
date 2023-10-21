@@ -29,11 +29,11 @@ I honestly hope this list will never end.
 
 #### Last 5 Books I've Read 🤓
 <!-- GOODREADS-READ-LIST:START -->
+- [Jurnalul Annei Frank](https://www.goodreads.com/review/show/2605011984?utm_medium=api&utm_source=rss) by Anne Frank (⭐⭐⭐⭐)
+- [The Art of Thinking Clearly](https://www.goodreads.com/review/show/3398126985?utm_medium=api&utm_source=rss) by Rolf Dobelli (⭐⭐⭐)
+- [Copiii din miez de noapte](https://www.goodreads.com/review/show/2605011709?utm_medium=api&utm_source=rss) by Salman Rushdie (⭐⭐)
+- [These Savage Shores](https://www.goodreads.com/review/show/5829922223?utm_medium=api&utm_source=rss) by Ram V. (⭐⭐⭐⭐)
 - [Socrates: A Man for Our Times](https://www.goodreads.com/review/show/5863430070?utm_medium=api&utm_source=rss) by Paul  Johnson (⭐⭐⭐)
-- [Lady Killer, Volume 2](https://www.goodreads.com/review/show/5829901975?utm_medium=api&utm_source=rss) by Joëlle Jones (⭐⭐⭐⭐)
-- [Lady Killer, Volume 1](https://www.goodreads.com/review/show/5829901757?utm_medium=api&utm_source=rss) by Joëlle Jones (⭐⭐⭐⭐)
-- [Here](https://www.goodreads.com/review/show/5824682524?utm_medium=api&utm_source=rss) by Richard McGuire (⭐⭐⭐⭐⭐)
-- [Escapo](https://www.goodreads.com/review/show/5824667378?utm_medium=api&utm_source=rss) by Paul Pope (⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 <!-- #### Some Stats 👷 -->
