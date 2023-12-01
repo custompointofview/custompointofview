@@ -31,11 +31,11 @@ I honestly hope this list will never end.
 
 #### Last 5 Books I've Read 🤓
 <!-- GOODREADS-READ-LIST:START -->
-- [Jurnalul Annei Frank](https://www.goodreads.com/review/show/2605011984?utm_medium=api&utm_source=rss) by Anne Frank (⭐⭐⭐⭐)
-- [The Art of Thinking Clearly](https://www.goodreads.com/review/show/3398126985?utm_medium=api&utm_source=rss) by Rolf Dobelli (⭐⭐⭐)
-- [Copiii din miez de noapte](https://www.goodreads.com/review/show/2605011709?utm_medium=api&utm_source=rss) by Salman Rushdie (⭐⭐)
-- [These Savage Shores](https://www.goodreads.com/review/show/5829922223?utm_medium=api&utm_source=rss) by Ram V. (⭐⭐⭐⭐)
-- [Socrates: A Man for Our Times](https://www.goodreads.com/review/show/5863430070?utm_medium=api&utm_source=rss) by Paul  Johnson (⭐⭐⭐)
+- [The Utopia of Rules: On Technology, Stupidity, and the Secret Joys of Bureaucracy](https://www.goodreads.com/review/show/4896977571?utm_medium=api&utm_source=rss) by David Graeber (⭐⭐⭐⭐)
+- [Refactoring UI](https://www.goodreads.com/review/show/5952919483?utm_medium=api&utm_source=rss) by Adam Wathan (unrated)
+- [Imperium, Vol. 4: Stormbreak](https://www.goodreads.com/review/show/5903339549?utm_medium=api&utm_source=rss) by Joshua Dysart (⭐⭐⭐)
+- [Imperium, Vol. 3: The Vine Imperative](https://www.goodreads.com/review/show/5903339527?utm_medium=api&utm_source=rss) by Joshua Dysart (⭐⭐⭐)
+- [Imperium, Vol. 2: Broken Angels](https://www.goodreads.com/review/show/5903339520?utm_medium=api&utm_source=rss) by Joshua Dysart (⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 <!-- #### Some Stats 👷 -->
