@@ -18,9 +18,10 @@ I honestly hope this list will never end.
 
 #### Now This One... I'm Currently Reading 📚
 <!-- GOODREADS-LIST:START -->
+- [Batman: Year 100 and Other Tales](https://www.goodreads.com/review/show/6039387286?utm_medium=api&utm_source=rss) by Paul Pope (⭐️3.77)
+- [Batman: Year 100](https://www.goodreads.com/review/show/6039386159?utm_medium=api&utm_source=rss) by Paul Pope (⭐️3.78)
 - [Alice's Adventures in Wonderland / Through the Looking-Glass](https://www.goodreads.com/review/show/5988311315?utm_medium=api&utm_source=rss) by Lewis Carroll (⭐️4.07)
-- [Daytripper](https://www.goodreads.com/review/show/5957363794?utm_medium=api&utm_source=rss) by Fábio Moon (⭐️4.31)
-- [About Face: The Essentials of Interaction Design by Alan Cooper (19-Sep-2014) Paperback](https://www.goodreads.com/review/show/5957343999?utm_medium=api&utm_source=rss) by Alan Cooper (⭐️4)
+- [About Face: The Essentials of Interaction Design by Alan Cooper (19-Sep-2014) Paperback](https://www.goodreads.com/review/show/5957343999?utm_medium=api&utm_source=rss) by Alan Cooper (⭐️4.25)
 - [Banana Fish, Vol. 10](https://www.goodreads.com/review/show/4602429210?utm_medium=api&utm_source=rss) by Akimi Yoshida (⭐️4.47)
 - [A Blink of the Screen: Collected Shorter Fiction](https://www.goodreads.com/review/show/3570112383?utm_medium=api&utm_source=rss) by Terry Pratchett (⭐️4.03)
 - [Promethea, Vol. 3](https://www.goodreads.com/review/show/3403029181?utm_medium=api&utm_source=rss) by Alan Moore (⭐️4.12)
