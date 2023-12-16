@@ -30,11 +30,11 @@ I honestly hope this list will never end.
 
 #### Last 5 Books I've Read 🤓
 <!-- GOODREADS-READ-LIST:START -->
-- [The Year of Magical Thinking](https://www.goodreads.com/review/show/3106666187?utm_medium=api&utm_source=rss) by Joan Didion (⭐⭐⭐⭐)
-- [The Utopia of Rules: On Technology, Stupidity, and the Secret Joys of Bureaucracy](https://www.goodreads.com/review/show/4896977571?utm_medium=api&utm_source=rss) by David Graeber (⭐⭐⭐⭐)
-- [Refactoring UI](https://www.goodreads.com/review/show/5952919483?utm_medium=api&utm_source=rss) by Adam Wathan (unrated)
-- [Imperium, Vol. 4: Stormbreak](https://www.goodreads.com/review/show/5903339549?utm_medium=api&utm_source=rss) by Joshua Dysart (⭐⭐⭐)
-- [Imperium, Vol. 3: The Vine Imperative](https://www.goodreads.com/review/show/5903339527?utm_medium=api&utm_source=rss) by Joshua Dysart (⭐⭐⭐)
+- [On a Sunbeam](https://www.goodreads.com/review/show/6044941463?utm_medium=api&utm_source=rss) by Tillie Walden (⭐⭐⭐⭐⭐)
+- [Batman: Year 100 and Other Tales](https://www.goodreads.com/review/show/6039387286?utm_medium=api&utm_source=rss) by Paul Pope (⭐⭐⭐⭐)
+- [La Femme invisible (Showman Killer, #3)](https://www.goodreads.com/review/show/6039327429?utm_medium=api&utm_source=rss) by Alejandro Jodorowsky (⭐⭐⭐)
+- [L' Enfant d'Or (Showman Killer, #2)](https://www.goodreads.com/review/show/6039327350?utm_medium=api&utm_source=rss) by Alejandro Jodorowsky (⭐⭐⭐)
+- [Showman Killer: Heartless Hero (Showman Killer #1)](https://www.goodreads.com/review/show/6039326243?utm_medium=api&utm_source=rss) by Alejandro Jodorowsky (⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 <!-- #### Some Stats 👷 -->
