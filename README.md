@@ -18,8 +18,6 @@ I honestly hope this list will never end.
 
 #### Now This One... I'm Currently Reading 📚
 <!-- GOODREADS-LIST:START -->
-- [Batman: Year 100 and Other Tales](https://www.goodreads.com/review/show/6039387286?utm_medium=api&utm_source=rss) by Paul Pope (⭐️3.77)
-- [Batman: Year 100](https://www.goodreads.com/review/show/6039386159?utm_medium=api&utm_source=rss) by Paul Pope (⭐️3.78)
 - [Alice's Adventures in Wonderland / Through the Looking-Glass](https://www.goodreads.com/review/show/5988311315?utm_medium=api&utm_source=rss) by Lewis Carroll (⭐️4.07)
 - [About Face: The Essentials of Interaction Design by Alan Cooper (19-Sep-2014) Paperback](https://www.goodreads.com/review/show/5957343999?utm_medium=api&utm_source=rss) by Alan Cooper (⭐️4.25)
 - [Banana Fish, Vol. 10](https://www.goodreads.com/review/show/4602429210?utm_medium=api&utm_source=rss) by Akimi Yoshida (⭐️4.47)
