@@ -15,6 +15,7 @@ jobs:
         with:
           clean: true
       - run: |
+          git fetch --all --prune --jobs=10
           git reset --hard origin/main
       - uses: zwacky/goodreads-profile-workflow@v1.1.2
         with:
@@ -30,6 +31,7 @@ jobs:
         with:
           clean: true
       - run: |
+          git fetch --all --prune --jobs=10
           git reset --hard origin/main
       - uses: zwacky/goodreads-profile-workflow@v1.1.2
         with:
