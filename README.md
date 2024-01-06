@@ -30,11 +30,11 @@ I honestly hope this list will never end.
 
 #### Last 5 Books I've Read 🤓
 <!-- GOODREADS-READ-LIST:START -->
-- [On a Sunbeam](https://www.goodreads.com/review/show/6044941463?utm_medium=api&utm_source=rss) by Tillie Walden (⭐⭐⭐⭐⭐)
-- [Batman: Year 100 and Other Tales](https://www.goodreads.com/review/show/6039387286?utm_medium=api&utm_source=rss) by Paul Pope (⭐⭐⭐⭐)
-- [La Femme invisible (Showman Killer, #3)](https://www.goodreads.com/review/show/6039327429?utm_medium=api&utm_source=rss) by Alejandro Jodorowsky (⭐⭐⭐)
-- [L' Enfant d'Or (Showman Killer, #2)](https://www.goodreads.com/review/show/6039327350?utm_medium=api&utm_source=rss) by Alejandro Jodorowsky (⭐⭐⭐)
-- [Showman Killer: Heartless Hero (Showman Killer #1)](https://www.goodreads.com/review/show/6039326243?utm_medium=api&utm_source=rss) by Alejandro Jodorowsky (⭐⭐⭐)
+- [The Divine](https://www.goodreads.com/review/show/6096573324?utm_medium=api&utm_source=rss) by Boaz Lavie (⭐⭐⭐⭐⭐)
+- [Vino cu mine știu exact unde mergem](https://www.goodreads.com/review/show/3149491013?utm_medium=api&utm_source=rss) by Dan Sociu (⭐⭐⭐⭐⭐)
+- [The One Trick Rip-Off + Deep Cuts](https://www.goodreads.com/review/show/6060290531?utm_medium=api&utm_source=rss) by Paul Pope (⭐⭐⭐)
+- [ワンパンマン 29 [Wanpanman 29] (Onepunch-Man, #29)](https://www.goodreads.com/review/show/6054485106?utm_medium=api&utm_source=rss) by ONE (⭐⭐⭐⭐)
+- [ワンパンマン 28 深淵へ [One Punch Man 28: Shin'en e]](https://www.goodreads.com/review/show/6054484872?utm_medium=api&utm_source=rss) by ONE (⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 <!-- #### Some Stats 👷 -->
