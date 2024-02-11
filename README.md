@@ -25,7 +25,7 @@ I honestly hope this list will never end.
 - [Promethea, Vol. 3](https://www.goodreads.com/review/show/3403029181?utm_medium=api&utm_source=rss) by Alan Moore (⭐️4.12)
 - [Hamlet / Hamlet, Prince of Denmark](https://www.goodreads.com/review/show/3395531630?utm_medium=api&utm_source=rss) by William Shakespeare (⭐️4.27)
 - [Fables, Vol. 8: Wolves](https://www.goodreads.com/review/show/3084491891?utm_medium=api&utm_source=rss) by Bill Willingham (⭐️4.26)
-- [Tenth of December](https://www.goodreads.com/review/show/3349948960?utm_medium=api&utm_source=rss) by George Saunders (⭐️3.98)
+- [Tenth of December: Stories](https://www.goodreads.com/review/show/3349948960?utm_medium=api&utm_source=rss) by George Saunders (⭐️3.98)
 <!-- GOODREADS-LIST:END -->
 
 #### Last 5 Books I've Read 🤓
