@@ -29,11 +29,11 @@ I honestly hope this list will never end.
 
 #### Last 5 Books I've Read 🤓
 <!-- GOODREADS-READ-LIST:START -->
+- [Alice’s Adventures in Wonderland / Through the Looking-Glass](https://www.goodreads.com/review/show/5988311315?utm_medium=api&utm_source=rss) by Lewis Carroll (⭐⭐⭐⭐⭐)
+- [The Formula: The Universal Laws of Success](https://www.goodreads.com/review/show/6255030381?utm_medium=api&utm_source=rss) by Albert-László Barabási (⭐⭐⭐⭐)
 - [Hidden Potential: The Science of Achieving Greater Things](https://www.goodreads.com/review/show/6204385547?utm_medium=api&utm_source=rss) by Adam M. Grant (⭐⭐⭐⭐)
 - [Jean Negulesco: The Life and Films](https://www.goodreads.com/review/show/6204382995?utm_medium=api&utm_source=rss) by Michelangelo Capua (⭐⭐⭐)
 - [Homo ludens: încercare de determinare a elementului ludic al culturii](https://www.goodreads.com/review/show/4386586339?utm_medium=api&utm_source=rss) by Johan Huizinga (⭐⭐⭐)
-- [The Divine](https://www.goodreads.com/review/show/6096573324?utm_medium=api&utm_source=rss) by Boaz Lavie (⭐⭐⭐⭐⭐)
-- [Vino cu mine știu exact unde mergem](https://www.goodreads.com/review/show/3149491013?utm_medium=api&utm_source=rss) by Dan Sociu (⭐⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 <!-- #### Some Stats 👷 -->
