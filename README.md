@@ -29,11 +29,11 @@ I honestly hope this list will never end.
 
 #### Last 5 Books I've Read 🤓
 <!-- GOODREADS-READ-LIST:START -->
+- [My Sister, the Serial Killer](https://www.goodreads.com/review/show/6442443602?utm_medium=api&utm_source=rss) by Oyinkan Braithwaite (⭐⭐⭐)
 - [The Dead Fathers Club](https://www.goodreads.com/review/show/6372456807?utm_medium=api&utm_source=rss) by Matt Haig (⭐⭐⭐)
 - [Alice’s Adventures in Wonderland / Through the Looking-Glass](https://www.goodreads.com/review/show/5988311315?utm_medium=api&utm_source=rss) by Lewis Carroll (⭐⭐⭐⭐⭐)
 - [The Formula: The Universal Laws of Success](https://www.goodreads.com/review/show/6255030381?utm_medium=api&utm_source=rss) by Albert-László Barabási (⭐⭐⭐⭐)
 - [Hidden Potential: The Science of Achieving Greater Things](https://www.goodreads.com/review/show/6204385547?utm_medium=api&utm_source=rss) by Adam M. Grant (⭐⭐⭐⭐)
-- [Jean Negulesco: The Life and Films](https://www.goodreads.com/review/show/6204382995?utm_medium=api&utm_source=rss) by Michelangelo Capua (⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 <!-- #### Some Stats 👷 -->
