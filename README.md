@@ -30,11 +30,11 @@ I honestly hope this list will never end.
 
 #### Last 5 Books I've Read 🤓
 <!-- GOODREADS-READ-LIST:START -->
+- [Naoki Urasawa's Monster, Volume 2: Surprise Party (Naoki Urasawa's Monster, #2)](https://www.goodreads.com/review/show/6452547810?utm_medium=api&utm_source=rss) by Naoki Urasawa (⭐⭐⭐⭐)
+- [Naoki Urasawa's Monster, Volume 1: Herr Dr. Tenma (Naoki Urasawa's Monster, #1)](https://www.goodreads.com/review/show/6450984697?utm_medium=api&utm_source=rss) by Naoki Urasawa (⭐⭐⭐⭐)
 - [My Sister, the Serial Killer](https://www.goodreads.com/review/show/6442443602?utm_medium=api&utm_source=rss) by Oyinkan Braithwaite (⭐⭐⭐)
 - [The Dead Fathers Club](https://www.goodreads.com/review/show/6372456807?utm_medium=api&utm_source=rss) by Matt Haig (⭐⭐⭐)
 - [Alice’s Adventures in Wonderland / Through the Looking-Glass](https://www.goodreads.com/review/show/5988311315?utm_medium=api&utm_source=rss) by Lewis Carroll (⭐⭐⭐⭐⭐)
-- [The Formula: The Universal Laws of Success](https://www.goodreads.com/review/show/6255030381?utm_medium=api&utm_source=rss) by Albert-László Barabási (⭐⭐⭐⭐)
-- [Hidden Potential: The Science of Achieving Greater Things](https://www.goodreads.com/review/show/6204385547?utm_medium=api&utm_source=rss) by Adam M. Grant (⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 <!-- #### Some Stats 👷 -->
