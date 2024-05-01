@@ -30,11 +30,11 @@ I honestly hope this list will never end.
 
 #### Last 5 Books I've Read 🤓
 <!-- GOODREADS-READ-LIST:START -->
-- [Naoki Urasawa's Monster, Volume 2: Surprise Party (Naoki Urasawa's Monster, #2)](https://www.goodreads.com/review/show/6452547810?utm_medium=api&utm_source=rss) by Naoki Urasawa (⭐⭐⭐⭐)
-- [Naoki Urasawa's Monster, Volume 1: Herr Dr. Tenma (Naoki Urasawa's Monster, #1)](https://www.goodreads.com/review/show/6450984697?utm_medium=api&utm_source=rss) by Naoki Urasawa (⭐⭐⭐⭐)
-- [My Sister, the Serial Killer](https://www.goodreads.com/review/show/6442443602?utm_medium=api&utm_source=rss) by Oyinkan Braithwaite (⭐⭐⭐)
-- [The Dead Fathers Club](https://www.goodreads.com/review/show/6372456807?utm_medium=api&utm_source=rss) by Matt Haig (⭐⭐⭐)
-- [Alice’s Adventures in Wonderland / Through the Looking-Glass](https://www.goodreads.com/review/show/5988311315?utm_medium=api&utm_source=rss) by Lewis Carroll (⭐⭐⭐⭐⭐)
+- [Naoki Urasawa's Monster, Volume 9: A Nameless Monster (Naoki Urasawa's Monster, #9)](https://www.goodreads.com/review/show/6468830062?utm_medium=api&utm_source=rss) by Naoki Urasawa (⭐⭐⭐)
+- [Naoki Urasawa's Monster, Volume 8: My Nameless Hero (Naoki Urasawa's Monster, #8)](https://www.goodreads.com/review/show/6468829178?utm_medium=api&utm_source=rss) by Naoki Urasawa (⭐⭐⭐)
+- [Naoki Urasawa's Monster, Volume 7: Richard (Naoki Urasawa's Monster, #7)](https://www.goodreads.com/review/show/6463861933?utm_medium=api&utm_source=rss) by Naoki Urasawa (⭐⭐⭐⭐)
+- [Naoki Urasawa's Monster, Volume 6: The Secret Woods (Naoki Urasawa's Monster, #6)](https://www.goodreads.com/review/show/6463861565?utm_medium=api&utm_source=rss) by Naoki Urasawa (⭐⭐⭐⭐)
+- [Naoki Urasawa's Monster, Volume 5: After the Carnival (Naoki Urasawa's Monster, #5)](https://www.goodreads.com/review/show/6459375190?utm_medium=api&utm_source=rss) by Naoki Urasawa (⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 <!-- #### Some Stats 👷 -->
