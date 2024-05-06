@@ -18,10 +18,10 @@ I honestly hope this list will never end.
 
 #### Now This One... I'm Currently Reading 📚
 <!-- GOODREADS-LIST:START -->
-- [Naoki Urasawa's Monster, Volume 10: Picnic (Naoki Urasawa's Monster, #10)](https://www.goodreads.com/review/show/6469273760?utm_medium=api&utm_source=rss) by Naoki Urasawa (⭐️4.5)
+- [Naoki Urasawa Präsentiert: Monster, Band 13: Flucht (Naoki Urasawa's Monster, #13)](https://www.goodreads.com/review/show/6476615566?utm_medium=api&utm_source=rss) by Naoki Urasawa (⭐️4.49)
 - [About Face: The Essentials of Interaction Design by Alan Cooper (19-Sep-2014) Paperback](https://www.goodreads.com/review/show/5957343999?utm_medium=api&utm_source=rss) by Alan Cooper (⭐️4.43)
 - [Banana Fish, Vol. 10](https://www.goodreads.com/review/show/4602429210?utm_medium=api&utm_source=rss) by Akimi Yoshida (⭐️4.47)
-- [A Blink of the Screen: Collected Shorter Fiction](https://www.goodreads.com/review/show/3570112383?utm_medium=api&utm_source=rss) by Terry Pratchett (⭐️4.02)
+- [A Blink of the Screen: Collected Shorter Fiction](https://www.goodreads.com/review/show/3570112383?utm_medium=api&utm_source=rss) by Terry Pratchett (⭐️4.03)
 - [Promethea, Vol. 3](https://www.goodreads.com/review/show/3403029181?utm_medium=api&utm_source=rss) by Alan Moore (⭐️4.12)
 - [Hamlet / Hamlet, Prince of Denmark](https://www.goodreads.com/review/show/3395531630?utm_medium=api&utm_source=rss) by William Shakespeare (⭐️4.22)
 - [Fables, Vol. 8: Wolves](https://www.goodreads.com/review/show/3084491891?utm_medium=api&utm_source=rss) by Bill Willingham (⭐️4.26)
