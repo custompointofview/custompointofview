@@ -30,11 +30,11 @@ I honestly hope this list will never end.
 
 #### Last 5 Books I've Read 🤓
 <!-- GOODREADS-READ-LIST:START -->
+- [Naoki Urasawa Präsentiert: Monster, Band 12: Die Rosenvilla (Naoki Urasawa's Monster, #12)](https://www.goodreads.com/review/show/6473814029?utm_medium=api&utm_source=rss) by Naoki Urasawa (⭐⭐⭐⭐)
+- [Naoki Urasawa Präsentiert: Monster, Band 11: Toter Winkel (Naoki Urasawa's Monster, #11)](https://www.goodreads.com/review/show/6473814193?utm_medium=api&utm_source=rss) by Naoki Urasawa (⭐⭐⭐)
+- [Naoki Urasawa's Monster, Volume 10: Picnic (Naoki Urasawa's Monster, #10)](https://www.goodreads.com/review/show/6469273760?utm_medium=api&utm_source=rss) by Naoki Urasawa (⭐⭐⭐)
 - [Naoki Urasawa's Monster, Volume 9: A Nameless Monster (Naoki Urasawa's Monster, #9)](https://www.goodreads.com/review/show/6468830062?utm_medium=api&utm_source=rss) by Naoki Urasawa (⭐⭐⭐)
 - [Naoki Urasawa's Monster, Volume 8: My Nameless Hero (Naoki Urasawa's Monster, #8)](https://www.goodreads.com/review/show/6468829178?utm_medium=api&utm_source=rss) by Naoki Urasawa (⭐⭐⭐)
-- [Naoki Urasawa's Monster, Volume 7: Richard (Naoki Urasawa's Monster, #7)](https://www.goodreads.com/review/show/6463861933?utm_medium=api&utm_source=rss) by Naoki Urasawa (⭐⭐⭐⭐)
-- [Naoki Urasawa's Monster, Volume 6: The Secret Woods (Naoki Urasawa's Monster, #6)](https://www.goodreads.com/review/show/6463861565?utm_medium=api&utm_source=rss) by Naoki Urasawa (⭐⭐⭐⭐)
-- [Naoki Urasawa's Monster, Volume 5: After the Carnival (Naoki Urasawa's Monster, #5)](https://www.goodreads.com/review/show/6459375190?utm_medium=api&utm_source=rss) by Naoki Urasawa (⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 <!-- #### Some Stats 👷 -->
