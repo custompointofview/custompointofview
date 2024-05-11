@@ -30,11 +30,11 @@ I honestly hope this list will never end.
 
 #### Last 5 Books I've Read 🤓
 <!-- GOODREADS-READ-LIST:START -->
-- [Naoki Urasawa Präsentiert: Monster, Band 12: Die Rosenvilla (Naoki Urasawa's Monster, #12)](https://www.goodreads.com/review/show/6473814029?utm_medium=api&utm_source=rss) by Naoki Urasawa (⭐⭐⭐⭐)
-- [Naoki Urasawa Präsentiert: Monster, Band 11: Toter Winkel (Naoki Urasawa's Monster, #11)](https://www.goodreads.com/review/show/6473814193?utm_medium=api&utm_source=rss) by Naoki Urasawa (⭐⭐⭐)
-- [Naoki Urasawa's Monster, Volume 10: Picnic (Naoki Urasawa's Monster, #10)](https://www.goodreads.com/review/show/6469273760?utm_medium=api&utm_source=rss) by Naoki Urasawa (⭐⭐⭐)
-- [Naoki Urasawa's Monster, Volume 9: A Nameless Monster (Naoki Urasawa's Monster, #9)](https://www.goodreads.com/review/show/6468830062?utm_medium=api&utm_source=rss) by Naoki Urasawa (⭐⭐⭐)
-- [Naoki Urasawa's Monster, Volume 8: My Nameless Hero (Naoki Urasawa's Monster, #8)](https://www.goodreads.com/review/show/6468829178?utm_medium=api&utm_source=rss) by Naoki Urasawa (⭐⭐⭐)
+- [Naoki Urasawa Präsentiert: Monster, Band 18: Das wahre Monster (Naoki Urasawa's Monster, #18)](https://www.goodreads.com/review/show/6491887016?utm_medium=api&utm_source=rss) by Naoki Urasawa (⭐⭐⭐⭐⭐)
+- [Naoki Urasawa Präsentiert: Monster, Band 17: Bin wieder da (Naoki Urasawa's Monster, #17)](https://www.goodreads.com/review/show/6491886879?utm_medium=api&utm_source=rss) by Naoki Urasawa (⭐⭐⭐⭐)
+- [Naoki Urasawa Präsentiert: Monster, Band 16: Schön, dass du wieder da bist (Naoki Urasawa's Monster, #16)](https://www.goodreads.com/review/show/6491886771?utm_medium=api&utm_source=rss) by Naoki Urasawa (⭐⭐⭐)
+- [Naoki Urasawa's Monster, Volume 15: The Door to Memories (Naoki Urasawa's Monster, #15)](https://www.goodreads.com/review/show/6484051233?utm_medium=api&utm_source=rss) by Naoki Urasawa (⭐⭐⭐)
+- [Naoki Urasawa Präsentiert: Monster, Band 14: Erinnerungen (Naoki Urasawa's Monster, #14)](https://www.goodreads.com/review/show/6484051375?utm_medium=api&utm_source=rss) by Naoki Urasawa (⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 <!-- #### Some Stats 👷 -->
