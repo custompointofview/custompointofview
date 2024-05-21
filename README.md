@@ -31,11 +31,11 @@ I honestly hope this list will never end.
 
 #### Last 5 Books I've Read 🤓
 <!-- GOODREADS-READ-LIST:START -->
-- [Birthright, Vol. 3: Allies and Enemies](https://www.goodreads.com/review/show/6499381644?utm_medium=api&utm_source=rss) by Joshua Williamson (⭐⭐)
-- [Birthright, Vol. 2: Call to Adventure](https://www.goodreads.com/review/show/6499381490?utm_medium=api&utm_source=rss) by Joshua Williamson (⭐⭐⭐)
-- [Birthright, Vol. 1: Homecoming](https://www.goodreads.com/review/show/6499380973?utm_medium=api&utm_source=rss) by Joshua Williamson (⭐⭐⭐⭐)
-- [Naoki Urasawa Präsentiert: Monster, Band 18: Das wahre Monster (Naoki Urasawa's Monster, #18)](https://www.goodreads.com/review/show/6491887016?utm_medium=api&utm_source=rss) by Naoki Urasawa (⭐⭐⭐⭐⭐)
-- [Naoki Urasawa Präsentiert: Monster, Band 17: Bin wieder da (Naoki Urasawa's Monster, #17)](https://www.goodreads.com/review/show/6491886879?utm_medium=api&utm_source=rss) by Naoki Urasawa (⭐⭐⭐⭐)
+- [Birthright, Vol. 10: Epilogue](https://www.goodreads.com/review/show/6517228797?utm_medium=api&utm_source=rss) by Joshua Williamson (⭐⭐⭐)
+- [Birthright, Vol. 9: War of the Worlds](https://www.goodreads.com/review/show/6517228692?utm_medium=api&utm_source=rss) by Joshua Williamson (⭐⭐⭐)
+- [Birthright, Vol. 8: Live by the Sword](https://www.goodreads.com/review/show/6517228588?utm_medium=api&utm_source=rss) by Joshua Williamson (⭐⭐)
+- [Birthright, Vol. 7: Blood Brothers](https://www.goodreads.com/review/show/6517228338?utm_medium=api&utm_source=rss) by Joshua Williamson (⭐⭐⭐)
+- [Birthright, Vol. 6: Fatherhood](https://www.goodreads.com/review/show/6517228217?utm_medium=api&utm_source=rss) by Joshua Williamson (⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 <!-- #### Some Stats 👷 -->
