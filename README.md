@@ -31,11 +31,11 @@ I honestly hope this list will never end.
 
 #### Last 5 Books I've Read 🤓
 <!-- GOODREADS-READ-LIST:START -->
+- [Vinland Saga Omnibus, Vol. 4](https://www.goodreads.com/review/show/6528349103?utm_medium=api&utm_source=rss) by Makoto Yukimura (⭐⭐⭐⭐)
+- [Vinland Saga Omnibus, Vol. 3](https://www.goodreads.com/review/show/6528349068?utm_medium=api&utm_source=rss) by Makoto Yukimura (⭐⭐⭐⭐)
+- [Vinland Saga Omnibus, Vol. 2](https://www.goodreads.com/review/show/6528348953?utm_medium=api&utm_source=rss) by Makoto Yukimura (⭐⭐⭐⭐)
+- [Vinland Saga Omnibus, Vol. 1](https://www.goodreads.com/review/show/6517235156?utm_medium=api&utm_source=rss) by Makoto Yukimura (⭐⭐⭐⭐⭐)
 - [Birthright, Vol. 10: Epilogue](https://www.goodreads.com/review/show/6517228797?utm_medium=api&utm_source=rss) by Joshua Williamson (⭐⭐⭐)
-- [Birthright, Vol. 9: War of the Worlds](https://www.goodreads.com/review/show/6517228692?utm_medium=api&utm_source=rss) by Joshua Williamson (⭐⭐⭐)
-- [Birthright, Vol. 8: Live by the Sword](https://www.goodreads.com/review/show/6517228588?utm_medium=api&utm_source=rss) by Joshua Williamson (⭐⭐)
-- [Birthright, Vol. 7: Blood Brothers](https://www.goodreads.com/review/show/6517228338?utm_medium=api&utm_source=rss) by Joshua Williamson (⭐⭐⭐)
-- [Birthright, Vol. 6: Fatherhood](https://www.goodreads.com/review/show/6517228217?utm_medium=api&utm_source=rss) by Joshua Williamson (⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 <!-- #### Some Stats 👷 -->
