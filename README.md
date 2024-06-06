@@ -31,11 +31,11 @@ I honestly hope this list will never end.
 
 #### Last 5 Books I've Read 🤓
 <!-- GOODREADS-READ-LIST:START -->
-- [Vinland Saga Omnibus, Vol. 4](https://www.goodreads.com/review/show/6528349103?utm_medium=api&utm_source=rss) by Makoto Yukimura (⭐⭐⭐⭐)
-- [Vinland Saga Omnibus, Vol. 3](https://www.goodreads.com/review/show/6528349068?utm_medium=api&utm_source=rss) by Makoto Yukimura (⭐⭐⭐⭐)
-- [Vinland Saga Omnibus, Vol. 2](https://www.goodreads.com/review/show/6528348953?utm_medium=api&utm_source=rss) by Makoto Yukimura (⭐⭐⭐⭐)
-- [Vinland Saga Omnibus, Vol. 1](https://www.goodreads.com/review/show/6517235156?utm_medium=api&utm_source=rss) by Makoto Yukimura (⭐⭐⭐⭐⭐)
-- [Birthright, Vol. 10: Epilogue](https://www.goodreads.com/review/show/6517228797?utm_medium=api&utm_source=rss) by Joshua Williamson (⭐⭐⭐)
+- [BRZRKR, Volume 2](https://www.goodreads.com/review/show/6550915326?utm_medium=api&utm_source=rss) by Keanu Reeves (⭐⭐)
+- [BRZRKR, Volume 1](https://www.goodreads.com/review/show/6135534299?utm_medium=api&utm_source=rss) by Keanu Reeves (⭐⭐⭐)
+- [BRZRKR, Volume 3](https://www.goodreads.com/review/show/6550915362?utm_medium=api&utm_source=rss) by Keanu Reeves (⭐⭐⭐)
+- [Vinland Saga Omnibus, Vol. 13](https://www.goodreads.com/review/show/6550784524?utm_medium=api&utm_source=rss) by Makoto Yukimura (⭐⭐⭐)
+- [Vinland Saga Omnibus, Vol. 12](https://www.goodreads.com/review/show/6550784494?utm_medium=api&utm_source=rss) by Makoto Yukimura (⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 <!-- #### Some Stats 👷 -->
