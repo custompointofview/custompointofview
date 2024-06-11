@@ -31,11 +31,11 @@ I honestly hope this list will never end.
 
 #### Last 5 Books I've Read 🤓
 <!-- GOODREADS-READ-LIST:START -->
-- [BRZRKR, Volume 2](https://www.goodreads.com/review/show/6550915326?utm_medium=api&utm_source=rss) by Keanu Reeves (⭐⭐)
-- [BRZRKR, Volume 1](https://www.goodreads.com/review/show/6135534299?utm_medium=api&utm_source=rss) by Keanu Reeves (⭐⭐⭐)
-- [BRZRKR, Volume 3](https://www.goodreads.com/review/show/6550915362?utm_medium=api&utm_source=rss) by Keanu Reeves (⭐⭐⭐)
-- [Vinland Saga Omnibus, Vol. 13](https://www.goodreads.com/review/show/6550784524?utm_medium=api&utm_source=rss) by Makoto Yukimura (⭐⭐⭐)
-- [Vinland Saga Omnibus, Vol. 12](https://www.goodreads.com/review/show/6550784494?utm_medium=api&utm_source=rss) by Makoto Yukimura (⭐⭐⭐)
+- [Vagabond #17](https://www.goodreads.com/review/show/6570331593?utm_medium=api&utm_source=rss) by Takehiko Inoue (⭐⭐⭐⭐)
+- [Vagabond, tomo 16](https://www.goodreads.com/review/show/6570331582?utm_medium=api&utm_source=rss) by Takehiko Inoue (⭐⭐⭐⭐)
+- [Vagabond volume 15](https://www.goodreads.com/review/show/6570331564?utm_medium=api&utm_source=rss) by Takehiko Inoue (⭐⭐⭐⭐)
+- [Vagabond, Volume 14](https://www.goodreads.com/review/show/6569691646?utm_medium=api&utm_source=rss) by Takehiko Inoue (⭐⭐⭐⭐)
+- [Vagabond, Volume 13](https://www.goodreads.com/review/show/6569691501?utm_medium=api&utm_source=rss) by Takehiko Inoue (⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 <!-- #### Some Stats 👷 -->
