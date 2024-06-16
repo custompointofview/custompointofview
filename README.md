@@ -30,11 +30,11 @@ I honestly hope this list will never end.
 
 #### Last 5 Books I've Read 🤓
 <!-- GOODREADS-READ-LIST:START -->
-- [Vagabond #17](https://www.goodreads.com/review/show/6570331593?utm_medium=api&utm_source=rss) by Takehiko Inoue (⭐⭐⭐⭐)
-- [Vagabond, tomo 16](https://www.goodreads.com/review/show/6570331582?utm_medium=api&utm_source=rss) by Takehiko Inoue (⭐⭐⭐⭐)
-- [Vagabond volume 15](https://www.goodreads.com/review/show/6570331564?utm_medium=api&utm_source=rss) by Takehiko Inoue (⭐⭐⭐⭐)
-- [Vagabond, Volume 14](https://www.goodreads.com/review/show/6569691646?utm_medium=api&utm_source=rss) by Takehiko Inoue (⭐⭐⭐⭐)
-- [Vagabond, Volume 13](https://www.goodreads.com/review/show/6569691501?utm_medium=api&utm_source=rss) by Takehiko Inoue (⭐⭐⭐⭐)
+- [Vagabond, Volume 37](https://www.goodreads.com/review/show/6589090709?utm_medium=api&utm_source=rss) by Takehiko Inoue (⭐⭐⭐⭐)
+- [バガボンド 36 (Vagabond, #36)](https://www.goodreads.com/review/show/6589090586?utm_medium=api&utm_source=rss) by Takehiko Inoue (⭐⭐⭐⭐)
+- [Vagabond, Volume 35](https://www.goodreads.com/review/show/6589090482?utm_medium=api&utm_source=rss) by Takehiko Inoue (⭐⭐⭐⭐)
+- [Vagabond, Volume 34](https://www.goodreads.com/review/show/6589090153?utm_medium=api&utm_source=rss) by Takehiko Inoue (⭐⭐⭐⭐)
+- [Vagabond, Volume 33](https://www.goodreads.com/review/show/6589089879?utm_medium=api&utm_source=rss) by Takehiko Inoue (⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 <!-- #### Some Stats 👷 -->
