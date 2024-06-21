@@ -31,11 +31,11 @@ I honestly hope this list will never end.
 
 #### Last 5 Books I've Read 🤓
 <!-- GOODREADS-READ-LIST:START -->
+- [Ascender, Vol. 4: Star Seed](https://www.goodreads.com/review/show/6590301754?utm_medium=api&utm_source=rss) by Jeff Lemire (⭐⭐⭐⭐)
+- [Ascender, Vol. 3: The Digital Mage](https://www.goodreads.com/review/show/3559892110?utm_medium=api&utm_source=rss) by Jeff Lemire (⭐⭐⭐⭐)
+- [Ascender, Vol. 2: The Dead Sea](https://www.goodreads.com/review/show/3559892092?utm_medium=api&utm_source=rss) by Jeff Lemire (⭐⭐⭐⭐)
+- [Ascender, Vol. 1: The Haunted Galaxy](https://www.goodreads.com/review/show/3559891407?utm_medium=api&utm_source=rss) by Jeff Lemire (⭐⭐⭐⭐)
 - [Vagabond, Volume 37](https://www.goodreads.com/review/show/6589090709?utm_medium=api&utm_source=rss) by Takehiko Inoue (⭐⭐⭐⭐)
-- [バガボンド 36 (Vagabond, #36)](https://www.goodreads.com/review/show/6589090586?utm_medium=api&utm_source=rss) by Takehiko Inoue (⭐⭐⭐⭐)
-- [Vagabond, Volume 35](https://www.goodreads.com/review/show/6589090482?utm_medium=api&utm_source=rss) by Takehiko Inoue (⭐⭐⭐⭐)
-- [Vagabond, Volume 34](https://www.goodreads.com/review/show/6589090153?utm_medium=api&utm_source=rss) by Takehiko Inoue (⭐⭐⭐⭐)
-- [Vagabond, Volume 33](https://www.goodreads.com/review/show/6589089879?utm_medium=api&utm_source=rss) by Takehiko Inoue (⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 <!-- #### Some Stats 👷 -->
