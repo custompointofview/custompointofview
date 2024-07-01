@@ -31,11 +31,11 @@ I honestly hope this list will never end.
 
 #### Last 5 Books I've Read 🤓
 <!-- GOODREADS-READ-LIST:START -->
-- [Ascender, Vol. 4: Star Seed](https://www.goodreads.com/review/show/6590301754?utm_medium=api&utm_source=rss) by Jeff Lemire (⭐⭐⭐⭐)
-- [Ascender, Vol. 3: The Digital Mage](https://www.goodreads.com/review/show/3559892110?utm_medium=api&utm_source=rss) by Jeff Lemire (⭐⭐⭐⭐)
-- [Ascender, Vol. 2: The Dead Sea](https://www.goodreads.com/review/show/3559892092?utm_medium=api&utm_source=rss) by Jeff Lemire (⭐⭐⭐⭐)
-- [Ascender, Vol. 1: The Haunted Galaxy](https://www.goodreads.com/review/show/3559891407?utm_medium=api&utm_source=rss) by Jeff Lemire (⭐⭐⭐⭐)
-- [Vagabond, Volume 37](https://www.goodreads.com/review/show/6589090709?utm_medium=api&utm_source=rss) by Takehiko Inoue (⭐⭐⭐⭐)
+- [地獄楽 13 [Jigokuraku 13]](https://www.goodreads.com/review/show/6629133931?utm_medium=api&utm_source=rss) by Yūji Kaku (⭐⭐⭐⭐)
+- [地獄楽 12 [Jigokuraku 12]](https://www.goodreads.com/review/show/6629133836?utm_medium=api&utm_source=rss) by Yūji Kaku (⭐⭐⭐⭐)
+- [地獄楽 11 [Jigokuraku 11]](https://www.goodreads.com/review/show/6629133815?utm_medium=api&utm_source=rss) by Yūji Kaku (⭐⭐⭐⭐)
+- [地獄楽 9 [Jigokuraku 9]](https://www.goodreads.com/review/show/6629133729?utm_medium=api&utm_source=rss) by Yūji Kaku (⭐⭐⭐⭐)
+- [地獄楽 8 [Jigokuraku 8]](https://www.goodreads.com/review/show/6629133664?utm_medium=api&utm_source=rss) by Yūji Kaku (⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 <!-- #### Some Stats 👷 -->
