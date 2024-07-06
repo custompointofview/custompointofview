@@ -18,9 +18,9 @@ I honestly hope this list will never end.
 
 #### Now This One... I'm Currently Reading 📚
 <!-- GOODREADS-LIST:START -->
-- [Goodnight Punpun Omnibus, Vol. 1](https://www.goodreads.com/review/show/6629178345?utm_medium=api&utm_source=rss) by Inio Asano (⭐️4.27)
+- [Goodnight Punpun Omnibus, Vol. 3](https://www.goodreads.com/review/show/6643534615?utm_medium=api&utm_source=rss) by Inio Asano (⭐️4.41)
 - [Lone Wolf and Cub, Vol. 1: The Assassin's Road (Lone Wolf and Cub, #1)](https://www.goodreads.com/review/show/6494278261?utm_medium=api&utm_source=rss) by Kazuo Koike (⭐️4.23)
-- [About Face: The Essentials of Interaction Design by Alan Cooper (19-Sep-2014) Paperback](https://www.goodreads.com/review/show/5957343999?utm_medium=api&utm_source=rss) by Alan Cooper (⭐️4.43)
+- [About Face: The Essentials of Interaction Design by Alan Cooper (19-Sep-2014) Paperback](https://www.goodreads.com/review/show/5957343999?utm_medium=api&utm_source=rss) by Alan Cooper (⭐️4.38)
 - [Banana Fish, Vol. 10](https://www.goodreads.com/review/show/4602429210?utm_medium=api&utm_source=rss) by Akimi Yoshida (⭐️4.48)
 - [A Blink of the Screen: Collected Shorter Fiction](https://www.goodreads.com/review/show/3570112383?utm_medium=api&utm_source=rss) by Terry Pratchett (⭐️4.02)
 - [Promethea, Vol. 3](https://www.goodreads.com/review/show/3403029181?utm_medium=api&utm_source=rss) by Alan Moore (⭐️4.12)
