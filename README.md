@@ -31,11 +31,11 @@ I honestly hope this list will never end.
 
 #### Last 5 Books I've Read 🤓
 <!-- GOODREADS-READ-LIST:START -->
+- [Goodnight Punpun Omnibus, Vol. 2](https://www.goodreads.com/review/show/6643534083?utm_medium=api&utm_source=rss) by Inio Asano (⭐⭐⭐⭐)
+- [Goodnight Punpun Omnibus, Vol. 1](https://www.goodreads.com/review/show/6629178345?utm_medium=api&utm_source=rss) by Inio Asano (⭐⭐⭐⭐)
+- [地獄楽 10 [Jigokuraku 10]](https://www.goodreads.com/review/show/6629133752?utm_medium=api&utm_source=rss) by Yūji Kaku (⭐⭐⭐⭐)
 - [地獄楽 13 [Jigokuraku 13]](https://www.goodreads.com/review/show/6629133931?utm_medium=api&utm_source=rss) by Yūji Kaku (⭐⭐⭐⭐)
 - [地獄楽 12 [Jigokuraku 12]](https://www.goodreads.com/review/show/6629133836?utm_medium=api&utm_source=rss) by Yūji Kaku (⭐⭐⭐⭐)
-- [地獄楽 11 [Jigokuraku 11]](https://www.goodreads.com/review/show/6629133815?utm_medium=api&utm_source=rss) by Yūji Kaku (⭐⭐⭐⭐)
-- [地獄楽 9 [Jigokuraku 9]](https://www.goodreads.com/review/show/6629133729?utm_medium=api&utm_source=rss) by Yūji Kaku (⭐⭐⭐⭐)
-- [地獄楽 8 [Jigokuraku 8]](https://www.goodreads.com/review/show/6629133664?utm_medium=api&utm_source=rss) by Yūji Kaku (⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 <!-- #### Some Stats 👷 -->
