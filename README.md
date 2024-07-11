@@ -30,11 +30,11 @@ I honestly hope this list will never end.
 
 #### Last 5 Books I've Read 🤓
 <!-- GOODREADS-READ-LIST:START -->
-- [Goodnight Punpun Omnibus, Vol. 2](https://www.goodreads.com/review/show/6643534083?utm_medium=api&utm_source=rss) by Inio Asano (⭐⭐⭐⭐)
-- [Goodnight Punpun Omnibus, Vol. 1](https://www.goodreads.com/review/show/6629178345?utm_medium=api&utm_source=rss) by Inio Asano (⭐⭐⭐⭐)
-- [地獄楽 10 [Jigokuraku 10]](https://www.goodreads.com/review/show/6629133752?utm_medium=api&utm_source=rss) by Yūji Kaku (⭐⭐⭐⭐)
-- [地獄楽 13 [Jigokuraku 13]](https://www.goodreads.com/review/show/6629133931?utm_medium=api&utm_source=rss) by Yūji Kaku (⭐⭐⭐⭐)
-- [地獄楽 12 [Jigokuraku 12]](https://www.goodreads.com/review/show/6629133836?utm_medium=api&utm_source=rss) by Yūji Kaku (⭐⭐⭐⭐)
+- [We3](https://www.goodreads.com/review/show/6649319117?utm_medium=api&utm_source=rss) by Grant Morrison (⭐⭐⭐)
+- [Goodnight Punpun Omnibus, Vol. 7](https://www.goodreads.com/review/show/6648256357?utm_medium=api&utm_source=rss) by Inio Asano (⭐⭐⭐⭐)
+- [Goodnight Punpun Omnibus, Vol. 6](https://www.goodreads.com/review/show/6648256246?utm_medium=api&utm_source=rss) by Inio Asano (⭐⭐⭐⭐)
+- [Goodnight Punpun Omnibus, Vol. 5](https://www.goodreads.com/review/show/6646692933?utm_medium=api&utm_source=rss) by Inio Asano (⭐⭐⭐)
+- [Goodnight Punpun Omnibus, Vol. 4](https://www.goodreads.com/review/show/6646018424?utm_medium=api&utm_source=rss) by Inio Asano (⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 <!-- #### Some Stats 👷 -->
