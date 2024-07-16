@@ -32,11 +32,11 @@ I honestly hope this list will never end.
 
 #### Last 5 Books I've Read 🤓
 <!-- GOODREADS-READ-LIST:START -->
-- [We3](https://www.goodreads.com/review/show/6649319117?utm_medium=api&utm_source=rss) by Grant Morrison (⭐⭐⭐)
-- [Goodnight Punpun Omnibus, Vol. 7](https://www.goodreads.com/review/show/6648256357?utm_medium=api&utm_source=rss) by Inio Asano (⭐⭐⭐⭐)
-- [Goodnight Punpun Omnibus, Vol. 6](https://www.goodreads.com/review/show/6648256246?utm_medium=api&utm_source=rss) by Inio Asano (⭐⭐⭐⭐)
-- [Goodnight Punpun Omnibus, Vol. 5](https://www.goodreads.com/review/show/6646692933?utm_medium=api&utm_source=rss) by Inio Asano (⭐⭐⭐)
-- [Goodnight Punpun Omnibus, Vol. 4](https://www.goodreads.com/review/show/6646018424?utm_medium=api&utm_source=rss) by Inio Asano (⭐⭐⭐⭐)
+- [Lastman, Volume 1 (Lastman, #1)](https://www.goodreads.com/review/show/6670069776?utm_medium=api&utm_source=rss) by Balak (⭐⭐⭐⭐)
+- [Something is Killing the Children, Vol. 7](https://www.goodreads.com/review/show/6666232581?utm_medium=api&utm_source=rss) by James Tynion IV (⭐⭐⭐⭐)
+- [Something is Killing the Children, Vol. 6](https://www.goodreads.com/review/show/6666232530?utm_medium=api&utm_source=rss) by James Tynion IV (⭐⭐⭐⭐)
+- [Something is Killing the Children, Vol. 5](https://www.goodreads.com/review/show/6666232502?utm_medium=api&utm_source=rss) by James Tynion IV (⭐⭐⭐⭐)
+- [Something is Killing the Children, Vol. 4](https://www.goodreads.com/review/show/6666232465?utm_medium=api&utm_source=rss) by James Tynion IV (⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 <!-- #### Some Stats 👷 -->
