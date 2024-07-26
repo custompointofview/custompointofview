@@ -32,11 +32,11 @@ I honestly hope this list will never end.
 
 #### Last 5 Books I've Read 🤓
 <!-- GOODREADS-READ-LIST:START -->
-- [Lastman Book 4 (4)](https://www.goodreads.com/review/show/6684025142?utm_medium=api&utm_source=rss) by Balak (⭐⭐⭐⭐)
-- [Lastman, Book 3](https://www.goodreads.com/review/show/6670071365?utm_medium=api&utm_source=rss) by Balak (⭐⭐⭐⭐)
-- [LastMan Vol. 2](https://www.goodreads.com/review/show/6670070775?utm_medium=api&utm_source=rss) by Bastien Vivès (⭐⭐⭐⭐)
-- [Lastman, Volume 1 (Lastman, #1)](https://www.goodreads.com/review/show/6670069776?utm_medium=api&utm_source=rss) by Balak (⭐⭐⭐⭐)
-- [Something is Killing the Children, Vol. 7](https://www.goodreads.com/review/show/6666232581?utm_medium=api&utm_source=rss) by James Tynion IV (⭐⭐⭐⭐)
+- [Gantz /15](https://www.goodreads.com/review/show/6688080188?utm_medium=api&utm_source=rss) by Hiroya Oku (⭐⭐⭐⭐)
+- [Gantz/14](https://www.goodreads.com/review/show/6688080137?utm_medium=api&utm_source=rss) by Hiroya Oku (⭐⭐⭐⭐)
+- [Gantz/13](https://www.goodreads.com/review/show/6688080099?utm_medium=api&utm_source=rss) by Hiroya Oku (⭐⭐⭐⭐)
+- [Gantz/12](https://www.goodreads.com/review/show/6688080059?utm_medium=api&utm_source=rss) by Hiroya Oku (⭐⭐⭐⭐)
+- [Gantz /11](https://www.goodreads.com/review/show/6688079990?utm_medium=api&utm_source=rss) by Hiroya Oku (⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 <!-- #### Some Stats 👷 -->
