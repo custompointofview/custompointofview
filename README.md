@@ -32,11 +32,11 @@ I honestly hope this list will never end.
 
 #### Last 5 Books I've Read 🤓
 <!-- GOODREADS-READ-LIST:START -->
-- [Gantz /15](https://www.goodreads.com/review/show/6688080188?utm_medium=api&utm_source=rss) by Hiroya Oku (⭐⭐⭐⭐)
-- [Gantz/14](https://www.goodreads.com/review/show/6688080137?utm_medium=api&utm_source=rss) by Hiroya Oku (⭐⭐⭐⭐)
-- [Gantz/13](https://www.goodreads.com/review/show/6688080099?utm_medium=api&utm_source=rss) by Hiroya Oku (⭐⭐⭐⭐)
-- [Gantz/12](https://www.goodreads.com/review/show/6688080059?utm_medium=api&utm_source=rss) by Hiroya Oku (⭐⭐⭐⭐)
-- [Gantz /11](https://www.goodreads.com/review/show/6688079990?utm_medium=api&utm_source=rss) by Hiroya Oku (⭐⭐⭐⭐)
+- [Cosmic Detective](https://www.goodreads.com/review/show/6704110318?utm_medium=api&utm_source=rss) by Jeff Lemire (⭐⭐⭐)
+- [Gantz/37](https://www.goodreads.com/review/show/6704075235?utm_medium=api&utm_source=rss) by Hiroya Oku (⭐⭐⭐⭐)
+- [Gantz/36](https://www.goodreads.com/review/show/6704074942?utm_medium=api&utm_source=rss) by Hiroya Oku (⭐⭐⭐⭐)
+- [Gantz/35](https://www.goodreads.com/review/show/6704074639?utm_medium=api&utm_source=rss) by Hiroya Oku (⭐⭐⭐⭐)
+- [Gantz/34](https://www.goodreads.com/review/show/6704074306?utm_medium=api&utm_source=rss) by Hiroya Oku (⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 <!-- #### Some Stats 👷 -->
