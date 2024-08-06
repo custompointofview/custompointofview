@@ -32,11 +32,11 @@ I honestly hope this list will never end.
 
 #### Last 5 Books I've Read 🤓
 <!-- GOODREADS-READ-LIST:START -->
-- [Cosmic Detective](https://www.goodreads.com/review/show/6704110318?utm_medium=api&utm_source=rss) by Jeff Lemire (⭐⭐⭐)
-- [Gantz/37](https://www.goodreads.com/review/show/6704075235?utm_medium=api&utm_source=rss) by Hiroya Oku (⭐⭐⭐⭐)
-- [Gantz/36](https://www.goodreads.com/review/show/6704074942?utm_medium=api&utm_source=rss) by Hiroya Oku (⭐⭐⭐⭐)
-- [Gantz/35](https://www.goodreads.com/review/show/6704074639?utm_medium=api&utm_source=rss) by Hiroya Oku (⭐⭐⭐⭐)
-- [Gantz/34](https://www.goodreads.com/review/show/6704074306?utm_medium=api&utm_source=rss) by Hiroya Oku (⭐⭐⭐⭐)
+- [Snow Angels](https://www.goodreads.com/review/show/6727759156?utm_medium=api&utm_source=rss) by Jeff Lemire (⭐⭐⭐)
+- [The Filth (2002-) #13](https://www.goodreads.com/review/show/6725356953?utm_medium=api&utm_source=rss) by Grant Morrison (⭐⭐⭐)
+- [The Filth (2002-) #12](https://www.goodreads.com/review/show/6725356851?utm_medium=api&utm_source=rss) by Grant Morrison (⭐⭐⭐)
+- [The Filth (2002-2003) #10](https://www.goodreads.com/review/show/6725356692?utm_medium=api&utm_source=rss) by Grant Morrison (⭐⭐⭐)
+- [The Filth (2002-) #9](https://www.goodreads.com/review/show/6725356562?utm_medium=api&utm_source=rss) by Grant Morrison (⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 <!-- #### Some Stats 👷 -->
