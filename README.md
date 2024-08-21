@@ -32,11 +32,11 @@ I honestly hope this list will never end.
 
 #### Last 5 Books I've Read 🤓
 <!-- GOODREADS-READ-LIST:START -->
-- [Snow Angels](https://www.goodreads.com/review/show/6727759156?utm_medium=api&utm_source=rss) by Jeff Lemire (⭐⭐⭐)
-- [The Filth (2002-) #13](https://www.goodreads.com/review/show/6725356953?utm_medium=api&utm_source=rss) by Grant Morrison (⭐⭐⭐)
-- [The Filth (2002-) #12](https://www.goodreads.com/review/show/6725356851?utm_medium=api&utm_source=rss) by Grant Morrison (⭐⭐⭐)
-- [The Filth (2002-2003) #10](https://www.goodreads.com/review/show/6725356692?utm_medium=api&utm_source=rss) by Grant Morrison (⭐⭐⭐)
-- [The Filth (2002-) #9](https://www.goodreads.com/review/show/6725356562?utm_medium=api&utm_source=rss) by Grant Morrison (⭐⭐⭐)
+- [Demon Slayer - Edition Pilier T01](https://www.goodreads.com/review/show/6769413483?utm_medium=api&utm_source=rss) by Koyoharu Gotouge (unrated)
+- [鬼滅の刃 23 [Kimetsu no Yaiba 23]](https://www.goodreads.com/review/show/6769413203?utm_medium=api&utm_source=rss) by Koyoharu Gotouge (⭐⭐⭐⭐)
+- [鬼滅の刃 22 [Kimetsu no Yaiba 22]](https://www.goodreads.com/review/show/6769412915?utm_medium=api&utm_source=rss) by Koyoharu Gotouge (⭐⭐⭐⭐)
+- [鬼滅の刃 21 [Kimetsu no Yaiba 21]](https://www.goodreads.com/review/show/6769412635?utm_medium=api&utm_source=rss) by Koyoharu Gotouge (⭐⭐⭐⭐)
+- [鬼滅の刃 20 [Kimetsu no Yaiba 20]](https://www.goodreads.com/review/show/6769412386?utm_medium=api&utm_source=rss) by Koyoharu Gotouge (⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 <!-- #### Some Stats 👷 -->
