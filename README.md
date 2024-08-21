@@ -18,8 +18,8 @@ I honestly hope this list will never end.
 
 #### Now This One... I'm Currently Reading 📚
 <!-- GOODREADS-LIST:START -->
-- [Demon Slayer: Kimetsu no Yaiba, Vol. 01: Cruelty (Kimetsu no Yaiba, #1)](https://www.goodreads.com/review/show/6730759658?utm_medium=api&utm_source=rss) by Koyoharu Gotouge (⭐️4.62)
-- [Something is Killing the Children, Vol. 8](https://www.goodreads.com/review/show/6666236215?utm_medium=api&utm_source=rss) by James Tynion IV (⭐️4.31)
+- [Transmetropolitan, Vol. 1: Back on the Street](https://www.goodreads.com/review/show/3098784646?utm_medium=api&utm_source=rss) by Warren Ellis (⭐️4.2)
+- [Something is Killing the Children, Vol. 8](https://www.goodreads.com/review/show/6666236215?utm_medium=api&utm_source=rss) by James Tynion IV (⭐️4.13)
 - [Lone Wolf and Cub, Vol. 1: The Assassin's Road (Lone Wolf and Cub, #1)](https://www.goodreads.com/review/show/6494278261?utm_medium=api&utm_source=rss) by Kazuo Koike (⭐️4.23)
 - [About Face: The Essentials of Interaction Design by Alan Cooper (19-Sep-2014) Paperback](https://www.goodreads.com/review/show/5957343999?utm_medium=api&utm_source=rss) by Alan Cooper (⭐️4.44)
 - [Banana Fish, Vol. 10](https://www.goodreads.com/review/show/4602429210?utm_medium=api&utm_source=rss) by Akimi Yoshida (⭐️4.48)
