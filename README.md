@@ -20,10 +20,10 @@ I honestly hope this list will never end.
 <!-- GOODREADS-LIST:START -->
 - [Liar Game, Volume 1 (Liar Game, #1)](https://www.goodreads.com/review/show/6799012523?utm_medium=api&utm_source=rss) by Shinobu Kaitani (⭐️4.2)
 - [Transmetropolitan, Vol. 1: Back on the Street](https://www.goodreads.com/review/show/3098784646?utm_medium=api&utm_source=rss) by Warren Ellis (⭐️4.2)
-- [Something is Killing the Children, Vol. 8](https://www.goodreads.com/review/show/6666236215?utm_medium=api&utm_source=rss) by James Tynion IV (⭐️4)
+- [Something is Killing the Children, Vol. 8](https://www.goodreads.com/review/show/6666236215?utm_medium=api&utm_source=rss) by James Tynion IV (⭐️3.89)
 - [Lone Wolf and Cub, Vol. 1: The Assassin's Road (Lone Wolf and Cub, #1)](https://www.goodreads.com/review/show/6494278261?utm_medium=api&utm_source=rss) by Kazuo Koike (⭐️4.23)
 - [About Face: The Essentials of Interaction Design by Alan Cooper (19-Sep-2014) Paperback](https://www.goodreads.com/review/show/5957343999?utm_medium=api&utm_source=rss) by Alan Cooper (⭐️4.44)
-- [Banana Fish, Vol. 10](https://www.goodreads.com/review/show/4602429210?utm_medium=api&utm_source=rss) by Akimi Yoshida (⭐️4.48)
+- [Banana Fish, Vol. 10](https://www.goodreads.com/review/show/4602429210?utm_medium=api&utm_source=rss) by Akimi Yoshida (⭐️4.47)
 - [A Blink of the Screen: Collected Shorter Fiction](https://www.goodreads.com/review/show/3570112383?utm_medium=api&utm_source=rss) by Terry Pratchett (⭐️4.02)
 - [Promethea, Vol. 3](https://www.goodreads.com/review/show/3403029181?utm_medium=api&utm_source=rss) by Alan             Moore (⭐️4.12)
 - [Hamlet / Hamlet, Prince of Denmark](https://www.goodreads.com/review/show/3395531630?utm_medium=api&utm_source=rss) by William Shakespeare (⭐️4.25)
