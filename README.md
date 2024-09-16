@@ -32,11 +32,11 @@ I honestly hope this list will never end.
 
 #### Last 5 Books I've Read 🤓
 <!-- GOODREADS-READ-LIST:START -->
+- [Night Sky with Exit Wounds](https://www.goodreads.com/review/show/6847942528?utm_medium=api&utm_source=rss) by Ocean Vuong (⭐⭐⭐⭐)
 - [Demon Slayer - Edition Pilier T01](https://www.goodreads.com/review/show/6769413483?utm_medium=api&utm_source=rss) by Koyoharu Gotouge (unrated)
 - [鬼滅の刃 23 [Kimetsu no Yaiba 23]](https://www.goodreads.com/review/show/6769413203?utm_medium=api&utm_source=rss) by Koyoharu Gotouge (⭐⭐⭐⭐)
 - [鬼滅の刃 22 [Kimetsu no Yaiba 22]](https://www.goodreads.com/review/show/6769412915?utm_medium=api&utm_source=rss) by Koyoharu Gotouge (⭐⭐⭐⭐)
 - [鬼滅の刃 21 [Kimetsu no Yaiba 21]](https://www.goodreads.com/review/show/6769412635?utm_medium=api&utm_source=rss) by Koyoharu Gotouge (⭐⭐⭐⭐)
-- [鬼滅の刃 20 [Kimetsu no Yaiba 20]](https://www.goodreads.com/review/show/6769412386?utm_medium=api&utm_source=rss) by Koyoharu Gotouge (⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 <!-- #### Some Stats 👷 -->
