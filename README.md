@@ -32,11 +32,11 @@ I honestly hope this list will never end.
 
 #### Last 5 Books I've Read 🤓
 <!-- GOODREADS-READ-LIST:START -->
-- [Night Sky with Exit Wounds](https://www.goodreads.com/review/show/6847942528?utm_medium=api&utm_source=rss) by Ocean Vuong (⭐⭐⭐⭐)
-- [Demon Slayer - Edition Pilier T01](https://www.goodreads.com/review/show/6769413483?utm_medium=api&utm_source=rss) by Koyoharu Gotouge (unrated)
-- [鬼滅の刃 23 [Kimetsu no Yaiba 23]](https://www.goodreads.com/review/show/6769413203?utm_medium=api&utm_source=rss) by Koyoharu Gotouge (⭐⭐⭐⭐)
-- [鬼滅の刃 22 [Kimetsu no Yaiba 22]](https://www.goodreads.com/review/show/6769412915?utm_medium=api&utm_source=rss) by Koyoharu Gotouge (⭐⭐⭐⭐)
-- [鬼滅の刃 21 [Kimetsu no Yaiba 21]](https://www.goodreads.com/review/show/6769412635?utm_medium=api&utm_source=rss) by Koyoharu Gotouge (⭐⭐⭐⭐)
+- [Liar Game, Volume 13 (Liar Game, #13)](https://www.goodreads.com/review/show/6855993129?utm_medium=api&utm_source=rss) by Shinobu Kaitani (⭐⭐⭐)
+- [Liar Game, Volume 12 (Liar Game, #12)](https://www.goodreads.com/review/show/6855992921?utm_medium=api&utm_source=rss) by Shinobu Kaitani (⭐⭐⭐)
+- [Liar Game, Volume 11 (Liar Game, #11)](https://www.goodreads.com/review/show/6855992686?utm_medium=api&utm_source=rss) by Shinobu Kaitani (⭐⭐⭐)
+- [Liar Game, Volume 10 (Liar Game, #10)](https://www.goodreads.com/review/show/6855992402?utm_medium=api&utm_source=rss) by Shinobu Kaitani (⭐⭐⭐)
+- [Liar Game, Volume 9 (Liar Game, #9)](https://www.goodreads.com/review/show/6855992198?utm_medium=api&utm_source=rss) by Shinobu Kaitani (⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 <!-- #### Some Stats 👷 -->
