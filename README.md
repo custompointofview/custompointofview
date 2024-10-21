@@ -32,11 +32,11 @@ I honestly hope this list will never end.
 
 #### Last 5 Books I've Read 🤓
 <!-- GOODREADS-READ-LIST:START -->
-- [Time Is a Mother](https://www.goodreads.com/review/show/6847943128?utm_medium=api&utm_source=rss) by Ocean Vuong (⭐⭐⭐)
-- [Liar Game, Volume 13 (Liar Game, #13)](https://www.goodreads.com/review/show/6855993129?utm_medium=api&utm_source=rss) by Shinobu Kaitani (⭐⭐⭐)
-- [Liar Game, Volume 12 (Liar Game, #12)](https://www.goodreads.com/review/show/6855992921?utm_medium=api&utm_source=rss) by Shinobu Kaitani (⭐⭐⭐)
-- [Liar Game, Volume 11 (Liar Game, #11)](https://www.goodreads.com/review/show/6855992686?utm_medium=api&utm_source=rss) by Shinobu Kaitani (⭐⭐⭐)
-- [Liar Game, Volume 10 (Liar Game, #10)](https://www.goodreads.com/review/show/6855992402?utm_medium=api&utm_source=rss) by Shinobu Kaitani (⭐⭐⭐)
+- [ダンダダン 18 [Dan Da Dan 18]](https://www.goodreads.com/review/show/6937695075?utm_medium=api&utm_source=rss) by Yukinobu Tatsu (⭐⭐⭐⭐)
+- [ダンダダン 17 [Dan Da Dan 17]](https://www.goodreads.com/review/show/6937694467?utm_medium=api&utm_source=rss) by Yukinobu Tatsu (⭐⭐⭐⭐)
+- [ダンダダン 16 [Dan Da Dan 16]](https://www.goodreads.com/review/show/6937693232?utm_medium=api&utm_source=rss) by Yukinobu Tatsu (⭐⭐⭐⭐)
+- [ダンダダン 15 [Dan Da Dan 15]](https://www.goodreads.com/review/show/6937692966?utm_medium=api&utm_source=rss) by Yukinobu Tatsu (⭐⭐⭐⭐)
+- [ダンダダン 14 [Dan Da Dan 14]](https://www.goodreads.com/review/show/6937692383?utm_medium=api&utm_source=rss) by Yukinobu Tatsu (⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 <!-- #### Some Stats 👷 -->
