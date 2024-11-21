@@ -32,8 +32,8 @@ I honestly hope this list will never end.
 
 #### Last 5 Books I've Read 🤓
 <!-- GOODREADS-READ-LIST:START -->
+- [ダンダダン 18 [Dan Da Dan 18]](https://www.goodreads.com/review/show/7020671779?utm_medium=api&utm_source=rss) by Yukinobu Tatsu (⭐⭐⭐⭐)
 - [Deaf Republic](https://www.goodreads.com/review/show/6980558882?utm_medium=api&utm_source=rss) by Ilya Kaminsky (⭐⭐⭐⭐)
-- [ダンダダン 18 [Dan Da Dan 18]](https://www.goodreads.com/review/show/6937695075?utm_medium=api&utm_source=rss) by Yukinobu Tatsu (⭐⭐⭐⭐)
 - [ダンダダン 17 [Dan Da Dan 17]](https://www.goodreads.com/review/show/6937694467?utm_medium=api&utm_source=rss) by Yukinobu Tatsu (⭐⭐⭐⭐)
 - [ダンダダン 16 [Dan Da Dan 16]](https://www.goodreads.com/review/show/6937693232?utm_medium=api&utm_source=rss) by Yukinobu Tatsu (⭐⭐⭐⭐)
 - [ダンダダン 15 [Dan Da Dan 15]](https://www.goodreads.com/review/show/6937692966?utm_medium=api&utm_source=rss) by Yukinobu Tatsu (⭐⭐⭐⭐)
