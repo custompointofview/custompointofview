@@ -32,11 +32,11 @@ I honestly hope this list will never end.
 
 #### Last 5 Books I've Read 🤓
 <!-- GOODREADS-READ-LIST:START -->
+- [Bullshit Jobs: A Theory](https://www.goodreads.com/review/show/3837234739?utm_medium=api&utm_source=rss) by David Graeber (⭐⭐⭐⭐)
 - [呪術廻戦 23 [Jujutsu Kaisen 23]](https://www.goodreads.com/review/show/7044450187?utm_medium=api&utm_source=rss) by Gege Akutami (⭐⭐⭐)
 - [呪術廻戦 21 [Jujutsu Kaisen 21]](https://www.goodreads.com/review/show/7044449829?utm_medium=api&utm_source=rss) by Gege Akutami (⭐⭐⭐)
 - [呪術廻戦 20 [Jujutsu Kaisen 20]](https://www.goodreads.com/review/show/7044449775?utm_medium=api&utm_source=rss) by Gege Akutami (⭐⭐⭐)
 - [呪術廻戦 19 [Jujutsu Kaisen 19]](https://www.goodreads.com/review/show/7044449716?utm_medium=api&utm_source=rss) by Gege Akutami (⭐⭐⭐)
-- [呪術廻戦 22 [Jujutsu Kaisen 22]](https://www.goodreads.com/review/show/7044449961?utm_medium=api&utm_source=rss) by Gege Akutami (⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 <!-- #### Some Stats 👷 -->
