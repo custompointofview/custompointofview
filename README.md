@@ -32,11 +32,11 @@ I honestly hope this list will never end.
 
 #### Last 5 Books I've Read 🤓
 <!-- GOODREADS-READ-LIST:START -->
-- [Bullshit Jobs: A Theory](https://www.goodreads.com/review/show/3837234739?utm_medium=api&utm_source=rss) by David Graeber (⭐⭐⭐⭐)
-- [呪術廻戦 23 [Jujutsu Kaisen 23]](https://www.goodreads.com/review/show/7044450187?utm_medium=api&utm_source=rss) by Gege Akutami (⭐⭐⭐)
-- [呪術廻戦 21 [Jujutsu Kaisen 21]](https://www.goodreads.com/review/show/7044449829?utm_medium=api&utm_source=rss) by Gege Akutami (⭐⭐⭐)
-- [呪術廻戦 20 [Jujutsu Kaisen 20]](https://www.goodreads.com/review/show/7044449775?utm_medium=api&utm_source=rss) by Gege Akutami (⭐⭐⭐)
-- [呪術廻戦 19 [Jujutsu Kaisen 19]](https://www.goodreads.com/review/show/7044449716?utm_medium=api&utm_source=rss) by Gege Akutami (⭐⭐⭐)
+- [Mushishi, Tome 10](https://www.goodreads.com/review/show/7107710110?utm_medium=api&utm_source=rss) by Yuki Urushibara (⭐⭐⭐⭐⭐)
+- [Mushishi, Volumen 9](https://www.goodreads.com/review/show/7107710031?utm_medium=api&utm_source=rss) by Masato Fujisaki (⭐⭐⭐⭐⭐)
+- [Mushishi, Tome 8](https://www.goodreads.com/review/show/7107709967?utm_medium=api&utm_source=rss) by Yuki Urushibara (⭐⭐⭐⭐⭐)
+- [Mushishi, Vol. 7](https://www.goodreads.com/review/show/7107709853?utm_medium=api&utm_source=rss) by Yuki Urushibara (⭐⭐⭐⭐⭐)
+- [Mushishi, Vol. 6](https://www.goodreads.com/review/show/7107709759?utm_medium=api&utm_source=rss) by Yuki Urushibara (⭐⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 <!-- #### Some Stats 👷 -->
