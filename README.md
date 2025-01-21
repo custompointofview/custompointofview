@@ -32,11 +32,11 @@ I honestly hope this list will never end.
 
 #### Last 5 Books I've Read 🤓
 <!-- GOODREADS-READ-LIST:START -->
-- [Death Note, Vol. 6: Give-and-Take (Death Note, #6)](https://www.goodreads.com/review/show/7205115950?utm_medium=api&utm_source=rss) by Tsugumi Ohba (⭐⭐⭐⭐)
-- [Death Note, Vol. 5: Whiteout (Death Note, #5)](https://www.goodreads.com/review/show/7205115934?utm_medium=api&utm_source=rss) by Tsugumi Ohba (⭐⭐⭐⭐)
-- [Death Note, Vol. 4: Love (Death Note, #4)](https://www.goodreads.com/review/show/7205115897?utm_medium=api&utm_source=rss) by Tsugumi Ohba (⭐⭐⭐⭐)
-- [Death Note, Vol. 3: Hard Run (Death Note, #3)](https://www.goodreads.com/review/show/7205115890?utm_medium=api&utm_source=rss) by Tsugumi Ohba (⭐⭐⭐⭐)
-- [Death Note, Vol. 2: Confluence (Death Note, #2)](https://www.goodreads.com/review/show/7205115870?utm_medium=api&utm_source=rss) by Tsugumi Ohba (⭐⭐⭐⭐)
+- [Death Note, Vol. 13: How to Read](https://www.goodreads.com/review/show/7231956459?utm_medium=api&utm_source=rss) by Tsugumi Ohba (⭐⭐⭐⭐)
+- [Death Note, Vol. 12: Finis (Death Note, #12)](https://www.goodreads.com/review/show/7231956297?utm_medium=api&utm_source=rss) by Tsugumi Ohba (⭐⭐⭐⭐)
+- [Death Note, Vol. 11: Kindred Spirits (Death Note, #11)](https://www.goodreads.com/review/show/7231956206?utm_medium=api&utm_source=rss) by Tsugumi Ohba (⭐⭐⭐⭐)
+- [Death Note, Vol. 10: Deletion (Death Note, #10)](https://www.goodreads.com/review/show/7231956098?utm_medium=api&utm_source=rss) by Tsugumi Ohba (⭐⭐⭐⭐)
+- [Death Note, Vol. 9: Contact (Death Note, #9)](https://www.goodreads.com/review/show/7231955990?utm_medium=api&utm_source=rss) by Tsugumi Ohba (⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 <!-- #### Some Stats 👷 -->
