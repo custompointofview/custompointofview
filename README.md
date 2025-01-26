@@ -18,6 +18,7 @@ I honestly hope this list will never end.
 
 #### Now This One... I'm Currently Reading 📚
 <!-- GOODREADS-LIST:START -->
+- [Fullmetal Alchemist, Vol. 1](https://www.goodreads.com/review/show/7255520867?utm_medium=api&utm_source=rss) by Hiromu Arakawa (⭐️4.53)
 - [呪術廻戦 24 [Jujutsu Kaisen 24]](https://www.goodreads.com/review/show/7044450309?utm_medium=api&utm_source=rss) by Gege Akutami (⭐️4.39)
 - [On Earth We're Briefly Gorgeous](https://www.goodreads.com/review/show/4493464920?utm_medium=api&utm_source=rss) by Ocean Vuong (⭐️4.06)
 - [Liar Game, Volume 14 (Liar Game, #14)](https://www.goodreads.com/review/show/6855993530?utm_medium=api&utm_source=rss) by Shinobu Kaitani (⭐️4.25)
@@ -27,7 +28,6 @@ I honestly hope this list will never end.
 - [About Face: The Essentials of Interaction Design by Alan Cooper (19-Sep-2014) Paperback](https://www.goodreads.com/review/show/5957343999?utm_medium=api&utm_source=rss) by Alan Cooper (⭐️4.35)
 - [Banana Fish, Vol. 10](https://www.goodreads.com/review/show/4602429210?utm_medium=api&utm_source=rss) by Akimi Yoshida (⭐️4.49)
 - [A Blink of the Screen: Collected Shorter Fiction](https://www.goodreads.com/review/show/3570112383?utm_medium=api&utm_source=rss) by Terry Pratchett (⭐️4.02)
-- [Promethea, Vol. 3](https://www.goodreads.com/review/show/3403029181?utm_medium=api&utm_source=rss) by Alan             Moore (⭐️4.12)
 <!-- GOODREADS-LIST:END -->
 
 #### Last 5 Books I've Read 🤓
