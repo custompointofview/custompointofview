@@ -32,11 +32,11 @@ I honestly hope this list will never end.
 
 #### Last 5 Books I've Read 🤓
 <!-- GOODREADS-READ-LIST:START -->
-- [Death Note, Vol. 13: How to Read](https://www.goodreads.com/review/show/7231956459?utm_medium=api&utm_source=rss) by Tsugumi Ohba (⭐⭐⭐⭐)
-- [Death Note, Vol. 12: Finis (Death Note, #12)](https://www.goodreads.com/review/show/7231956297?utm_medium=api&utm_source=rss) by Tsugumi Ohba (⭐⭐⭐⭐)
-- [Death Note, Vol. 11: Kindred Spirits (Death Note, #11)](https://www.goodreads.com/review/show/7231956206?utm_medium=api&utm_source=rss) by Tsugumi Ohba (⭐⭐⭐⭐)
-- [Death Note, Vol. 10: Deletion (Death Note, #10)](https://www.goodreads.com/review/show/7231956098?utm_medium=api&utm_source=rss) by Tsugumi Ohba (⭐⭐⭐⭐)
-- [Death Note, Vol. 9: Contact (Death Note, #9)](https://www.goodreads.com/review/show/7231955990?utm_medium=api&utm_source=rss) by Tsugumi Ohba (⭐⭐⭐⭐)
+- [Fullmetal Alchemist, Vol. 15 (Fullmetal Alchemist, #15)](https://www.goodreads.com/review/show/7285447504?utm_medium=api&utm_source=rss) by Hiromu Arakawa (⭐⭐⭐⭐)
+- [Fullmetal Alchemist, Vol. 14 (Fullmetal Alchemist, #14)](https://www.goodreads.com/review/show/7285443923?utm_medium=api&utm_source=rss) by Hiromu Arakawa (⭐⭐⭐⭐)
+- [Fullmetal Alchemist, Vol. 13 (Fullmetal Alchemist, #13)](https://www.goodreads.com/review/show/7285443824?utm_medium=api&utm_source=rss) by Hiromu Arakawa (⭐⭐⭐⭐)
+- [Fullmetal Alchemist, Vol. 12 (Fullmetal Alchemist, #12)](https://www.goodreads.com/review/show/7285443595?utm_medium=api&utm_source=rss) by Hiromu Arakawa (⭐⭐⭐⭐)
+- [Fullmetal Alchemist, Vol. 11 (Fullmetal Alchemist, #11)](https://www.goodreads.com/review/show/7285443528?utm_medium=api&utm_source=rss) by Hiromu Arakawa (⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 <!-- #### Some Stats 👷 -->
