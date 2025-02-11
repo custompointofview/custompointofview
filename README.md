@@ -32,11 +32,11 @@ I honestly hope this list will never end.
 
 #### Last 5 Books I've Read 🤓
 <!-- GOODREADS-READ-LIST:START -->
-- [Fullmetal Alchemist, Vol. 15 (Fullmetal Alchemist, #15)](https://www.goodreads.com/review/show/7285447504?utm_medium=api&utm_source=rss) by Hiromu Arakawa (⭐⭐⭐⭐)
-- [Fullmetal Alchemist, Vol. 14 (Fullmetal Alchemist, #14)](https://www.goodreads.com/review/show/7285443923?utm_medium=api&utm_source=rss) by Hiromu Arakawa (⭐⭐⭐⭐)
-- [Fullmetal Alchemist, Vol. 13 (Fullmetal Alchemist, #13)](https://www.goodreads.com/review/show/7285443824?utm_medium=api&utm_source=rss) by Hiromu Arakawa (⭐⭐⭐⭐)
-- [Fullmetal Alchemist, Vol. 12 (Fullmetal Alchemist, #12)](https://www.goodreads.com/review/show/7285443595?utm_medium=api&utm_source=rss) by Hiromu Arakawa (⭐⭐⭐⭐)
-- [Fullmetal Alchemist, Vol. 11 (Fullmetal Alchemist, #11)](https://www.goodreads.com/review/show/7285443528?utm_medium=api&utm_source=rss) by Hiromu Arakawa (⭐⭐⭐⭐)
+- [Death Note, Vol. 7: Zero (Death Note, #7)](https://www.goodreads.com/review/show/7205115997?utm_medium=api&utm_source=rss) by Tsugumi Ohba (⭐⭐⭐⭐)
+- [Fullmetal Alchemist, Vol. 27 (Fullmetal Alchemist, #27)](https://www.goodreads.com/review/show/7255519881?utm_medium=api&utm_source=rss) by Hiromu Arakawa (⭐⭐⭐⭐)
+- [Fullmetal Alchemist, Vol. 26 (Fullmetal Alchemist, #26)](https://www.goodreads.com/review/show/7303260059?utm_medium=api&utm_source=rss) by Hiromu Arakawa (⭐⭐⭐⭐)
+- [Fullmetal Alchemist, Vol. 25 (Fullmetal Alchemist, #25)](https://www.goodreads.com/review/show/7303259939?utm_medium=api&utm_source=rss) by Hiromu Arakawa (⭐⭐⭐⭐)
+- [Fullmetal Alchemist, Vol. 24 (Fullmetal Alchemist, #24)](https://www.goodreads.com/review/show/7303259805?utm_medium=api&utm_source=rss) by Hiromu Arakawa (⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 <!-- #### Some Stats 👷 -->
