@@ -18,7 +18,7 @@ I honestly hope this list will never end.
 
 #### Now This One... I'm Currently Reading 📚
 <!-- GOODREADS-LIST:START -->
-- [Fullmetal Alchemist, Vol. 16 (Fullmetal Alchemist, #16)](https://www.goodreads.com/review/show/7285447832?utm_medium=api&utm_source=rss) by Hiromu Arakawa (⭐️4.56)
+- [Uzumaki: Spiral into Horror, Vol. 1](https://www.goodreads.com/review/show/7303270046?utm_medium=api&utm_source=rss) by Junji Ito (⭐️4.45)
 - [呪術廻戦 24 [Jujutsu Kaisen 24]](https://www.goodreads.com/review/show/7044450309?utm_medium=api&utm_source=rss) by Gege Akutami (⭐️4.38)
 - [On Earth We're Briefly Gorgeous](https://www.goodreads.com/review/show/4493464920?utm_medium=api&utm_source=rss) by Ocean Vuong (⭐️4.06)
 - [Liar Game, Volume 14 (Liar Game, #14)](https://www.goodreads.com/review/show/6855993530?utm_medium=api&utm_source=rss) by Shinobu Kaitani (⭐️4.25)
