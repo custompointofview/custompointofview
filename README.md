@@ -32,11 +32,11 @@ I honestly hope this list will never end.
 
 #### Last 5 Books I've Read 🤓
 <!-- GOODREADS-READ-LIST:START -->
+- [Uzumaki](https://www.goodreads.com/review/show/4121576652?utm_medium=api&utm_source=rss) by Junji Ito (⭐⭐⭐)
+- [Uzumaki: Spiral Into Horror, Vol. 3](https://www.goodreads.com/review/show/7322067587?utm_medium=api&utm_source=rss) by Junji Ito (⭐⭐⭐)
+- [Uzumaki: Spiral into Horror, Vol. 2.](https://www.goodreads.com/review/show/7322067518?utm_medium=api&utm_source=rss) by Junji Ito (⭐⭐⭐)
+- [Uzumaki: Spiral into Horror, Vol. 1](https://www.goodreads.com/review/show/7303270046?utm_medium=api&utm_source=rss) by Junji Ito (⭐⭐⭐)
 - [Death Note, Vol. 7: Zero (Death Note, #7)](https://www.goodreads.com/review/show/7205115997?utm_medium=api&utm_source=rss) by Tsugumi Ohba (⭐⭐⭐⭐)
-- [Fullmetal Alchemist, Vol. 27 (Fullmetal Alchemist, #27)](https://www.goodreads.com/review/show/7255519881?utm_medium=api&utm_source=rss) by Hiromu Arakawa (⭐⭐⭐⭐)
-- [Fullmetal Alchemist, Vol. 26 (Fullmetal Alchemist, #26)](https://www.goodreads.com/review/show/7303260059?utm_medium=api&utm_source=rss) by Hiromu Arakawa (⭐⭐⭐⭐)
-- [Fullmetal Alchemist, Vol. 25 (Fullmetal Alchemist, #25)](https://www.goodreads.com/review/show/7303259939?utm_medium=api&utm_source=rss) by Hiromu Arakawa (⭐⭐⭐⭐)
-- [Fullmetal Alchemist, Vol. 24 (Fullmetal Alchemist, #24)](https://www.goodreads.com/review/show/7303259805?utm_medium=api&utm_source=rss) by Hiromu Arakawa (⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 <!-- #### Some Stats 👷 -->
