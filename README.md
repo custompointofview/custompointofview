@@ -32,11 +32,11 @@ I honestly hope this list will never end.
 
 #### Last 5 Books I've Read 🤓
 <!-- GOODREADS-READ-LIST:START -->
+- [Caietul albastru](https://www.goodreads.com/review/show/2605005499?utm_medium=api&utm_source=rss) by Ludwig Wittgenstein (⭐⭐⭐⭐⭐)
 - [Uzumaki](https://www.goodreads.com/review/show/4121576652?utm_medium=api&utm_source=rss) by Junji Ito (⭐⭐⭐)
 - [Uzumaki: Spiral Into Horror, Vol. 3](https://www.goodreads.com/review/show/7322067587?utm_medium=api&utm_source=rss) by Junji Ito (⭐⭐⭐)
 - [Uzumaki: Spiral into Horror, Vol. 2.](https://www.goodreads.com/review/show/7322067518?utm_medium=api&utm_source=rss) by Junji Ito (⭐⭐⭐)
 - [Uzumaki: Spiral into Horror, Vol. 1](https://www.goodreads.com/review/show/7303270046?utm_medium=api&utm_source=rss) by Junji Ito (⭐⭐⭐)
-- [Death Note, Vol. 7: Zero (Death Note, #7)](https://www.goodreads.com/review/show/7205115997?utm_medium=api&utm_source=rss) by Tsugumi Ohba (⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 <!-- #### Some Stats 👷 -->
