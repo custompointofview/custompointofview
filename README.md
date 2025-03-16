@@ -32,11 +32,11 @@ I honestly hope this list will never end.
 
 #### Last 5 Books I've Read 🤓
 <!-- GOODREADS-READ-LIST:START -->
-- [The Climber, Vol. 9](https://www.goodreads.com/review/show/7390828330?utm_medium=api&utm_source=rss) by Shin&apos;ichi Sakamoto (⭐⭐⭐⭐)
-- [The Climber, Vol. 8](https://www.goodreads.com/review/show/7390828251?utm_medium=api&utm_source=rss) by Shin&apos;ichi Sakamoto (⭐⭐⭐⭐)
-- [The Climber, Vol. 7](https://www.goodreads.com/review/show/7390828146?utm_medium=api&utm_source=rss) by Shin&apos;ichi Sakamoto (⭐⭐⭐⭐)
-- [The Climber, Vol. 6](https://www.goodreads.com/review/show/7390828080?utm_medium=api&utm_source=rss) by Shin&apos;ichi Sakamoto (⭐⭐⭐⭐)
-- [The Climber, Vol. 5](https://www.goodreads.com/review/show/7390827973?utm_medium=api&utm_source=rss) by Shin&apos;ichi Sakamoto (⭐⭐⭐⭐)
+- [Ascension, Tome 17](https://www.goodreads.com/review/show/7400531545?utm_medium=api&utm_source=rss) by Shin&apos;ichi Sakamoto (⭐⭐⭐⭐)
+- [Ascension, Tome 16](https://www.goodreads.com/review/show/7400531475?utm_medium=api&utm_source=rss) by Shin&apos;ichi Sakamoto (⭐⭐⭐⭐)
+- [Ascension, Tome 15](https://www.goodreads.com/review/show/7400531398?utm_medium=api&utm_source=rss) by Shin&apos;ichi Sakamoto (⭐⭐⭐⭐)
+- [Ascension, Vol.14](https://www.goodreads.com/review/show/7400531297?utm_medium=api&utm_source=rss) by Shin&apos;ichi Sakamoto (⭐⭐⭐⭐)
+- [Ascension, Tome 13](https://www.goodreads.com/review/show/7400531215?utm_medium=api&utm_source=rss) by Shin&apos;ichi Sakamoto (⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 <!-- #### Some Stats 👷 -->
