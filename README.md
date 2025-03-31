@@ -32,11 +32,11 @@ I honestly hope this list will never end.
 
 #### Last 5 Books I've Read 🤓
 <!-- GOODREADS-READ-LIST:START -->
+- [Colorless Tsukuru Tazaki and His Years of Pilgrimage](https://www.goodreads.com/review/show/7447080002?utm_medium=api&utm_source=rss) by Haruki Murakami (⭐⭐)
 - [文豪ストレイドッグス 3 [Bungō Stray Dogs 3]](https://www.goodreads.com/review/show/7410077204?utm_medium=api&utm_source=rss) by Kafka Asagiri (⭐⭐⭐)
 - [文豪ストレイドッグス 2 [Bungō Stray Dogs 2]](https://www.goodreads.com/review/show/7410077134?utm_medium=api&utm_source=rss) by Kafka Asagiri (⭐⭐⭐)
 - [文豪ストレイドッグス 1 [Bungō Stray Dogs 1]](https://www.goodreads.com/review/show/7401816337?utm_medium=api&utm_source=rss) by Kafka Asagiri (⭐⭐⭐)
 - [Ascension, Tome 17](https://www.goodreads.com/review/show/7400531545?utm_medium=api&utm_source=rss) by Shin&apos;ichi Sakamoto (⭐⭐⭐⭐)
-- [Ascension, Tome 16](https://www.goodreads.com/review/show/7400531475?utm_medium=api&utm_source=rss) by Shin&apos;ichi Sakamoto (⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 <!-- #### Some Stats 👷 -->
