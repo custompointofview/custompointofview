@@ -32,11 +32,11 @@ I honestly hope this list will never end.
 
 #### Last 5 Books I've Read 🤓
 <!-- GOODREADS-READ-LIST:START -->
+- [Life on Mars: Poems](https://www.goodreads.com/review/show/7484586981?utm_medium=api&utm_source=rss) by Tracy K. Smith (⭐⭐)
 - [Working Identity: Unconventional Strategies for Reinventing Your Career](https://www.goodreads.com/review/show/7477097896?utm_medium=api&utm_source=rss) by Herminia Ibarra (⭐⭐⭐)
 - [Colorless Tsukuru Tazaki and His Years of Pilgrimage](https://www.goodreads.com/review/show/7447080002?utm_medium=api&utm_source=rss) by Haruki Murakami (⭐⭐)
 - [文豪ストレイドッグス 3 [Bungō Stray Dogs 3]](https://www.goodreads.com/review/show/7410077204?utm_medium=api&utm_source=rss) by Kafka Asagiri (⭐⭐⭐)
-- [文豪ストレイドッグス 2 [Bungō Stray Dogs 2]](https://www.goodreads.com/review/show/7410077134?utm_medium=api&utm_source=rss) by Kafka Asagiri (⭐⭐⭐)
-- [文豪ストレイドッグス 1 [Bungō Stray Dogs 1]](https://www.goodreads.com/review/show/7401816337?utm_medium=api&utm_source=rss) by Kafka Asagiri (⭐⭐⭐)
+- [文豪ストレ���ドッグス 2 [Bungō Stray Dogs 2]](https://www.goodreads.com/review/show/7410077134?utm_medium=api&utm_source=rss) by Kafka Asagiri (⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 <!-- #### Some Stats 👷 -->
