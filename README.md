@@ -32,11 +32,11 @@ I honestly hope this list will never end.
 
 #### Last 5 Books I've Read 🤓
 <!-- GOODREADS-READ-LIST:START -->
-- [Life on Mars: Poems](https://www.goodreads.com/review/show/7484586981?utm_medium=api&utm_source=rss) by Tracy K. Smith (⭐⭐)
-- [Working Identity: Unconventional Strategies for Reinventing Your Career](https://www.goodreads.com/review/show/7477097896?utm_medium=api&utm_source=rss) by Herminia Ibarra (⭐⭐⭐)
-- [Colorless Tsukuru Tazaki and His Years of Pilgrimage](https://www.goodreads.com/review/show/7447080002?utm_medium=api&utm_source=rss) by Haruki Murakami (⭐⭐)
-- [文豪ストレイドッグス 3 [Bungō Stray Dogs 3]](https://www.goodreads.com/review/show/7410077204?utm_medium=api&utm_source=rss) by Kafka Asagiri (⭐⭐⭐)
-- [文豪ストレ���ドッグス 2 [Bungō Stray Dogs 2]](https://www.goodreads.com/review/show/7410077134?utm_medium=api&utm_source=rss) by Kafka Asagiri (⭐⭐⭐)
+- [文豪ストレイドッグス 5 [Bungō Stray Dogs 5]](https://www.goodreads.com/review/show/7518067564?utm_medium=api&utm_source=rss) by Kafka Asagiri (⭐⭐⭐)
+- [文豪ストレイドッグス 7 [Bungō Stray Dogs 7]](https://www.goodreads.com/review/show/7518069318?utm_medium=api&utm_source=rss) by Kafka Asagiri (⭐⭐⭐)
+- [文豪ストレイドッグス 6 [Bungō Stray Dogs 6]](https://www.goodreads.com/review/show/7518068551?utm_medium=api&utm_source=rss) by Kafka Asagiri (⭐⭐⭐)
+- [文豪ストレイドッグス 4 [Bungō Stray Dogs 4]](https://www.goodreads.com/review/show/7410077469?utm_medium=api&utm_source=rss) by Kafka Asagiri (⭐⭐⭐)
+- [Seven Brief Lessons on Physics](https://www.goodreads.com/review/show/4658727196?utm_medium=api&utm_source=rss) by Carlo Rovelli (⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 <!-- #### Some Stats 👷 -->
