@@ -32,11 +32,11 @@ I honestly hope this list will never end.
 
 #### Last 5 Books I've Read 🤓
 <!-- GOODREADS-READ-LIST:START -->
+- [The Book of My Lives](https://www.goodreads.com/review/show/7611692740?utm_medium=api&utm_source=rss) by Aleksandar Hemon (⭐⭐⭐)
+- [Notes on a Nervous Planet](https://www.goodreads.com/review/show/7607353121?utm_medium=api&utm_source=rss) by Matt Haig (⭐⭐)
 - [The Ordeal of Change](https://www.goodreads.com/review/show/7585517201?utm_medium=api&utm_source=rss) by Eric Hoffer (⭐⭐⭐)
 - [Ways of Seeing](https://www.goodreads.com/review/show/4908857175?utm_medium=api&utm_source=rss) by John Berger (⭐⭐⭐)
 - [Meseria de romancier](https://www.goodreads.com/review/show/1877622799?utm_medium=api&utm_source=rss) by Haruki Murakami (⭐⭐⭐⭐)
-- [文豪ストレイドッグス 5 [Bungō Stray Dogs 5]](https://www.goodreads.com/review/show/7518067564?utm_medium=api&utm_source=rss) by Kafka Asagiri (⭐⭐⭐)
-- [文豪ストレイドッグス 7 [Bungō Stray Dogs 7]](https://www.goodreads.com/review/show/7518069318?utm_medium=api&utm_source=rss) by Kafka Asagiri (⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 <!-- #### Some Stats 👷 -->
