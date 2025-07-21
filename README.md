@@ -18,6 +18,7 @@ I honestly hope this list will never end.
 
 #### Now This One... I'm Currently Reading 📚
 <!-- GOODREADS-LIST:START -->
+- [Nausicaä of the Valley of the Wind, Vol. 2](https://www.goodreads.com/review/show/7746218102?utm_medium=api&utm_source=rss) by Hayao Miyazaki (⭐️4.51)
 - [文豪ストレイドッグス 8 [Bungō Stray Dogs 8]](https://www.goodreads.com/review/show/7518070188?utm_medium=api&utm_source=rss) by Kafka Asagiri (⭐️4.64)
 - [呪術廻戦 24 [Jujutsu Kaisen 24]](https://www.goodreads.com/review/show/7044450309?utm_medium=api&utm_source=rss) by Gege Akutami (⭐️4.37)
 - [On Earth We're Briefly Gorgeous](https://www.goodreads.com/review/show/4493464920?utm_medium=api&utm_source=rss) by Ocean Vuong (⭐️4.05)
@@ -27,7 +28,6 @@ I honestly hope this list will never end.
 - [Lone Wolf and Cub, Vol. 1: The Assassin's Road (Lone Wolf and Cub, #1)](https://www.goodreads.com/review/show/6494278261?utm_medium=api&utm_source=rss) by Kazuo Koike (⭐️4.23)
 - [About Face: The Essentials of Interaction Design by Alan Cooper (19-Sep-2014) Paperback](https://www.goodreads.com/review/show/5957343999?utm_medium=api&utm_source=rss) by Alan Cooper (⭐️4.4)
 - [Banana Fish, Vol. 10](https://www.goodreads.com/review/show/4602429210?utm_medium=api&utm_source=rss) by Akimi Yoshida (⭐️4.49)
-- [A Blink of the Screen: Collected Shorter Fiction](https://www.goodreads.com/review/show/3570112383?utm_medium=api&utm_source=rss) by Terry Pratchett (⭐️4.02)
 <!-- GOODREADS-LIST:END -->
 
 #### Last 5 Books I've Read 🤓
