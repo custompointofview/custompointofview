@@ -32,11 +32,11 @@ I honestly hope this list will never end.
 
 #### Last 5 Books I've Read 🤓
 <!-- GOODREADS-READ-LIST:START -->
+- [Nausicaä of the Valley of the Wind, Vol. 2](https://www.goodreads.com/review/show/7746218102?utm_medium=api&utm_source=rss) by Hayao Miyazaki (⭐⭐⭐⭐⭐)
 - [Nausicaä of the Valley of the Wind, Vol. 1](https://www.goodreads.com/review/show/7746217428?utm_medium=api&utm_source=rss) by Hayao Miyazaki (⭐⭐⭐⭐⭐)
 - [Picture This: How Pictures Work](https://www.goodreads.com/review/show/7661094837?utm_medium=api&utm_source=rss) by Molly Bang (⭐⭐⭐⭐)
 - [Richard Stark’s Parker: The Outfit](https://www.goodreads.com/review/show/3084480021?utm_medium=api&utm_source=rss) by Darwyn Cooke (⭐⭐⭐⭐⭐)
 - [The Book of My Lives](https://www.goodreads.com/review/show/7611692740?utm_medium=api&utm_source=rss) by Aleksandar Hemon (⭐⭐⭐)
-- [Notes on a Nervous Planet](https://www.goodreads.com/review/show/7607353121?utm_medium=api&utm_source=rss) by Matt Haig (⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 <!-- #### Some Stats 👷 -->
