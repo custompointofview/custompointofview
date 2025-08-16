@@ -18,7 +18,7 @@ I honestly hope this list will never end.
 
 #### Now This One... I'm Currently Reading 📚
 <!-- GOODREADS-LIST:START -->
-- [Nausicaä of the Valley of the Wind, Vol. 3](https://www.goodreads.com/review/show/7779773117?utm_medium=api&utm_source=rss) by Hayao Miyazaki (⭐️4.56)
+- [Nausicaä of the Valley of the Wind, Vol. 5](https://www.goodreads.com/review/show/7825276894?utm_medium=api&utm_source=rss) by Hayao Miyazaki (⭐️4.59)
 - [文豪ストレイドッグス 8 [Bungō Stray Dogs 8]](https://www.goodreads.com/review/show/7518070188?utm_medium=api&utm_source=rss) by Kafka Asagiri (⭐️4.64)
 - [呪術廻戦 24 [Jujutsu Kaisen 24]](https://www.goodreads.com/review/show/7044450309?utm_medium=api&utm_source=rss) by Gege Akutami (⭐️4.37)
 - [On Earth We're Briefly Gorgeous](https://www.goodreads.com/review/show/4493464920?utm_medium=api&utm_source=rss) by Ocean Vuong (⭐️4.05)
