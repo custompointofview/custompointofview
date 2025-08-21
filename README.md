@@ -32,11 +32,11 @@ I honestly hope this list will never end.
 
 #### Last 5 Books I've Read 🤓
 <!-- GOODREADS-READ-LIST:START -->
+- [The Sweetest Fig](https://www.goodreads.com/review/show/7845308538?utm_medium=api&utm_source=rss) by Chris Van Allsburg (⭐⭐⭐⭐)
+- [Nausicaä of the Valley of the Wind, Vol. 7](https://www.goodreads.com/review/show/7836564956?utm_medium=api&utm_source=rss) by Hayao Miyazaki (⭐⭐⭐⭐⭐)
+- [Nausicaä of the Valley of the Wind, Vol. 6](https://www.goodreads.com/review/show/7836564738?utm_medium=api&utm_source=rss) by Hayao Miyazaki (⭐⭐⭐⭐⭐)
+- [Nausicaä of the Valley of the Wind, Vol. 5](https://www.goodreads.com/review/show/7825276894?utm_medium=api&utm_source=rss) by Hayao Miyazaki (⭐⭐⭐⭐⭐)
 - [Nausicaä of the Valley of the Wind, Vol. 4](https://www.goodreads.com/review/show/7825276293?utm_medium=api&utm_source=rss) by Hayao Miyazaki (⭐⭐⭐⭐⭐)
-- [Nausicaä of the Valley of the Wind, Vol. 3](https://www.goodreads.com/review/show/7779773117?utm_medium=api&utm_source=rss) by Hayao Miyazaki (⭐⭐⭐⭐⭐)
-- [Nausicaä of the Valley of the Wind, Vol. 2](https://www.goodreads.com/review/show/7746218102?utm_medium=api&utm_source=rss) by Hayao Miyazaki (⭐⭐⭐⭐⭐)
-- [Nausicaä of the Valley of the Wind, Vol. 1](https://www.goodreads.com/review/show/7746217428?utm_medium=api&utm_source=rss) by Hayao Miyazaki (⭐⭐⭐⭐⭐)
-- [Picture This: How Pictures Work](https://www.goodreads.com/review/show/7661094837?utm_medium=api&utm_source=rss) by Molly Bang (⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 <!-- #### Some Stats 👷 -->
