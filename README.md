@@ -32,11 +32,11 @@ I honestly hope this list will never end.
 
 #### Last 5 Books I've Read 🤓
 <!-- GOODREADS-READ-LIST:START -->
-- [The Sweetest Fig](https://www.goodreads.com/review/show/7845308538?utm_medium=api&utm_source=rss) by Chris Van Allsburg (⭐⭐⭐⭐)
-- [Nausicaä of the Valley of the Wind, Vol. 7](https://www.goodreads.com/review/show/7836564956?utm_medium=api&utm_source=rss) by Hayao Miyazaki (⭐⭐⭐⭐⭐)
-- [Nausicaä of the Valley of the Wind, Vol. 6](https://www.goodreads.com/review/show/7836564738?utm_medium=api&utm_source=rss) by Hayao Miyazaki (⭐⭐⭐⭐⭐)
-- [Nausicaä of the Valley of the Wind, Vol. 5](https://www.goodreads.com/review/show/7825276894?utm_medium=api&utm_source=rss) by Hayao Miyazaki (⭐⭐⭐⭐⭐)
-- [Nausicaä of the Valley of the Wind, Vol. 4](https://www.goodreads.com/review/show/7825276293?utm_medium=api&utm_source=rss) by Hayao Miyazaki (⭐⭐⭐⭐⭐)
+- [Princess Mononoke, Volume 5](https://www.goodreads.com/review/show/7853740230?utm_medium=api&utm_source=rss) by Hayao Miyazaki (⭐⭐⭐⭐)
+- [Princess Mononoke, Vol. 4](https://www.goodreads.com/review/show/7853740188?utm_medium=api&utm_source=rss) by Hayao Miyazaki (⭐⭐⭐⭐)
+- [Princess Mononoke Film Comic, Vol. 2 (2) (Princess Mononoke Film Comics)](https://www.goodreads.com/review/show/7848270837?utm_medium=api&utm_source=rss) by Hayao Miyazaki (⭐⭐⭐⭐)
+- [Princess Mononoke Film Comic, Vol. 3 (3) (Princess Mononoke Film Comics)](https://www.goodreads.com/review/show/7853740138?utm_medium=api&utm_source=rss) by Hayao Miyazaki (⭐⭐⭐⭐)
+- [The Vision, Vol. 2: Little Better Than a Beast](https://www.goodreads.com/review/show/7853737249?utm_medium=api&utm_source=rss) by Tom King (⭐⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 <!-- #### Some Stats 👷 -->
