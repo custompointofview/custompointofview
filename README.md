@@ -32,11 +32,11 @@ I honestly hope this list will never end.
 
 #### Last 5 Books I've Read 🤓
 <!-- GOODREADS-READ-LIST:START -->
-- [Princess Mononoke, Volume 5](https://www.goodreads.com/review/show/7853740230?utm_medium=api&utm_source=rss) by Hayao Miyazaki (⭐⭐⭐⭐)
-- [Princess Mononoke, Vol. 4](https://www.goodreads.com/review/show/7853740188?utm_medium=api&utm_source=rss) by Hayao Miyazaki (⭐⭐⭐⭐)
-- [Princess Mononoke Film Comic, Vol. 2 (2) (Princess Mononoke Film Comics)](https://www.goodreads.com/review/show/7848270837?utm_medium=api&utm_source=rss) by Hayao Miyazaki (⭐⭐⭐⭐)
-- [Princess Mononoke Film Comic, Vol. 3 (3) (Princess Mononoke Film Comics)](https://www.goodreads.com/review/show/7853740138?utm_medium=api&utm_source=rss) by Hayao Miyazaki (⭐⭐⭐⭐)
-- [The Vision, Vol. 2: Little Better Than a Beast](https://www.goodreads.com/review/show/7853737249?utm_medium=api&utm_source=rss) by Tom King (⭐⭐⭐⭐⭐)
+- [FreakAngels, Volume 6](https://www.goodreads.com/review/show/7876960316?utm_medium=api&utm_source=rss) by Warren Ellis (⭐⭐⭐)
+- [FreakAngels, Volume 5](https://www.goodreads.com/review/show/7876958855?utm_medium=api&utm_source=rss) by Warren Ellis (⭐⭐⭐)
+- [FreakAngels, Volume 4](https://www.goodreads.com/review/show/7876957225?utm_medium=api&utm_source=rss) by Warren Ellis (⭐⭐⭐)
+- [FreakAngels, Volume 3](https://www.goodreads.com/review/show/7876955045?utm_medium=api&utm_source=rss) by Warren Ellis (⭐⭐⭐)
+- [FreakAngels, Volume 2](https://www.goodreads.com/review/show/7876953306?utm_medium=api&utm_source=rss) by Warren Ellis (⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 <!-- #### Some Stats 👷 -->
