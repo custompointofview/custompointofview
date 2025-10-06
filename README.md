@@ -32,11 +32,11 @@ I honestly hope this list will never end.
 
 #### Last 5 Books I've Read 🤓
 <!-- GOODREADS-READ-LIST:START -->
-- [FreakAngels, Volume 6](https://www.goodreads.com/review/show/7876960316?utm_medium=api&utm_source=rss) by Warren Ellis (⭐⭐⭐)
-- [FreakAngels, Volume 5](https://www.goodreads.com/review/show/7876958855?utm_medium=api&utm_source=rss) by Warren Ellis (⭐⭐⭐)
-- [FreakAngels, Volume 4](https://www.goodreads.com/review/show/7876957225?utm_medium=api&utm_source=rss) by Warren Ellis (⭐⭐⭐)
-- [FreakAngels, Volume 3](https://www.goodreads.com/review/show/7876955045?utm_medium=api&utm_source=rss) by Warren Ellis (⭐⭐⭐)
-- [FreakAngels, Volume 2](https://www.goodreads.com/review/show/7876953306?utm_medium=api&utm_source=rss) by Warren Ellis (⭐⭐⭐)
+- [Bandette Volume 5: The Wedding of B.D. Belgique](https://www.goodreads.com/review/show/7959974491?utm_medium=api&utm_source=rss) by Paul Tobin (⭐⭐⭐)
+- [Bandette Volume 4: The Six Finger Secret](https://www.goodreads.com/review/show/7959974430?utm_medium=api&utm_source=rss) by Paul Tobin (⭐⭐⭐)
+- [Bandette Volume 3: The House of the Green Mask](https://www.goodreads.com/review/show/7959974374?utm_medium=api&utm_source=rss) by Paul Tobin (⭐⭐⭐)
+- [Bandette Volume 2: Stealers, Keepers!](https://www.goodreads.com/review/show/7959974300?utm_medium=api&utm_source=rss) by Paul Tobin (⭐⭐⭐)
+- [Bandette Volume 1: Presto!](https://www.goodreads.com/review/show/7959970667?utm_medium=api&utm_source=rss) by Paul Tobin (⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 <!-- #### Some Stats 👷 -->
