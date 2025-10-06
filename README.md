@@ -18,7 +18,7 @@ I honestly hope this list will never end.
 
 #### Now This One... I'm Currently Reading 📚
 <!-- GOODREADS-LIST:START -->
-- [文豪ストレイドッグス 8 [Bungō Stray Dogs 8]](https://www.goodreads.com/review/show/7518070188?utm_medium=api&utm_source=rss) by Kafka Asagiri (⭐️4.64)
+- [文豪ストレイドッグス 8 [Bungō Stray Dogs 8]](https://www.goodreads.com/review/show/7518070188?utm_medium=api&utm_source=rss) by Kafka Asagiri (⭐️4.63)
 - [呪術廻戦 24 [Jujutsu Kaisen 24]](https://www.goodreads.com/review/show/7044450309?utm_medium=api&utm_source=rss) by Gege Akutami (⭐️4.37)
 - [On Earth We're Briefly Gorgeous](https://www.goodreads.com/review/show/4493464920?utm_medium=api&utm_source=rss) by Ocean Vuong (⭐️4.04)
 - [Liar Game, Volume 14 (Liar Game, #14)](https://www.goodreads.com/review/show/6855993530?utm_medium=api&utm_source=rss) by Shinobu Kaitani (⭐️4.26)
