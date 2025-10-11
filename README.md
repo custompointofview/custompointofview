@@ -32,11 +32,11 @@ I honestly hope this list will never end.
 
 #### Last 5 Books I've Read 🤓
 <!-- GOODREADS-READ-LIST:START -->
+- [Injection, Vol. 3](https://www.goodreads.com/review/show/7979852721?utm_medium=api&utm_source=rss) by Warren Ellis (⭐⭐⭐)
+- [Injection, Vol. 2](https://www.goodreads.com/review/show/7979852688?utm_medium=api&utm_source=rss) by Warren Ellis (⭐⭐⭐)
+- [Injection, Vol. 1](https://www.goodreads.com/review/show/7979851962?utm_medium=api&utm_source=rss) by Warren Ellis (⭐⭐⭐)
 - [Bandette Volume 5: The Wedding of B.D. Belgique](https://www.goodreads.com/review/show/7959974491?utm_medium=api&utm_source=rss) by Paul Tobin (⭐⭐⭐)
 - [Bandette Volume 4: The Six Finger Secret](https://www.goodreads.com/review/show/7959974430?utm_medium=api&utm_source=rss) by Paul Tobin (⭐⭐⭐)
-- [Bandette Volume 3: The House of the Green Mask](https://www.goodreads.com/review/show/7959974374?utm_medium=api&utm_source=rss) by Paul Tobin (⭐⭐⭐)
-- [Bandette Volume 2: Stealers, Keepers!](https://www.goodreads.com/review/show/7959974300?utm_medium=api&utm_source=rss) by Paul Tobin (⭐⭐⭐)
-- [Bandette Volume 1: Presto!](https://www.goodreads.com/review/show/7959970667?utm_medium=api&utm_source=rss) by Paul Tobin (⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 <!-- #### Some Stats 👷 -->
