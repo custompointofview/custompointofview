@@ -32,11 +32,11 @@ I honestly hope this list will never end.
 
 #### Last 5 Books I've Read 🤓
 <!-- GOODREADS-READ-LIST:START -->
+- [The Leaning Girl (Obscure Cities)](https://www.goodreads.com/review/show/7991772575?utm_medium=api&utm_source=rss) by François Schuiten (⭐⭐⭐)
+- [This Was Our Pact](https://www.goodreads.com/review/show/7986066148?utm_medium=api&utm_source=rss) by Ryan  Andrews (⭐⭐⭐⭐⭐)
+- [Nothing is Forgotten](https://www.goodreads.com/review/show/7986066098?utm_medium=api&utm_source=rss) by Ryan  Andrews (⭐⭐⭐⭐)
 - [Injection, Vol. 3](https://www.goodreads.com/review/show/7979852721?utm_medium=api&utm_source=rss) by Warren Ellis (⭐⭐⭐)
 - [Injection, Vol. 2](https://www.goodreads.com/review/show/7979852688?utm_medium=api&utm_source=rss) by Warren Ellis (⭐⭐⭐)
-- [Injection, Vol. 1](https://www.goodreads.com/review/show/7979851962?utm_medium=api&utm_source=rss) by Warren Ellis (⭐⭐⭐)
-- [Bandette Volume 5: The Wedding of B.D. Belgique](https://www.goodreads.com/review/show/7959974491?utm_medium=api&utm_source=rss) by Paul Tobin (⭐⭐⭐)
-- [Bandette Volume 4: The Six Finger Secret](https://www.goodreads.com/review/show/7959974430?utm_medium=api&utm_source=rss) by Paul Tobin (⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 <!-- #### Some Stats 👷 -->
