@@ -32,11 +32,11 @@ I honestly hope this list will never end.
 
 #### Last 5 Books I've Read 🤓
 <!-- GOODREADS-READ-LIST:START -->
-- [The Leaning Girl (Obscure Cities)](https://www.goodreads.com/review/show/7991772575?utm_medium=api&utm_source=rss) by François Schuiten (⭐⭐⭐)
-- [This Was Our Pact](https://www.goodreads.com/review/show/7986066148?utm_medium=api&utm_source=rss) by Ryan  Andrews (⭐⭐⭐⭐⭐)
-- [Nothing is Forgotten](https://www.goodreads.com/review/show/7986066098?utm_medium=api&utm_source=rss) by Ryan  Andrews (⭐⭐⭐⭐)
-- [Injection, Vol. 3](https://www.goodreads.com/review/show/7979852721?utm_medium=api&utm_source=rss) by Warren Ellis (⭐⭐⭐)
-- [Injection, Vol. 2](https://www.goodreads.com/review/show/7979852688?utm_medium=api&utm_source=rss) by Warren Ellis (⭐⭐⭐)
+- [Le lion et l&apos;oiseau](https://www.goodreads.com/review/show/8006435254?utm_medium=api&utm_source=rss) by Marianne Dubuc (⭐⭐⭐⭐)
+- [In the Castle of Cats: 2 (Unicorn Book)](https://www.goodreads.com/review/show/8006434502?utm_medium=api&utm_source=rss) by Betty D. Boegehold (⭐⭐⭐)
+- [In November](https://www.goodreads.com/review/show/8006432546?utm_medium=api&utm_source=rss) by Cynthia Rylant (⭐⭐⭐)
+- [Heckedy Peg](https://www.goodreads.com/review/show/8006431446?utm_medium=api&utm_source=rss) by Audrey  Wood (⭐⭐⭐⭐)
+- [Hawk, I&apos;m Your Brother](https://www.goodreads.com/review/show/8006430490?utm_medium=api&utm_source=rss) by Byrd Baylor (⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 <!-- #### Some Stats 👷 -->
