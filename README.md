@@ -32,11 +32,11 @@ I honestly hope this list will never end.
 
 #### Last 5 Books I've Read 🤓
 <!-- GOODREADS-READ-LIST:START -->
-- [Le lion et l&apos;oiseau](https://www.goodreads.com/review/show/8006435254?utm_medium=api&utm_source=rss) by Marianne Dubuc (⭐⭐⭐⭐)
-- [In the Castle of Cats: 2 (Unicorn Book)](https://www.goodreads.com/review/show/8006434502?utm_medium=api&utm_source=rss) by Betty D. Boegehold (⭐⭐⭐)
-- [In November](https://www.goodreads.com/review/show/8006432546?utm_medium=api&utm_source=rss) by Cynthia Rylant (⭐⭐⭐)
-- [Heckedy Peg](https://www.goodreads.com/review/show/8006431446?utm_medium=api&utm_source=rss) by Audrey  Wood (⭐⭐⭐⭐)
-- [Hawk, I&apos;m Your Brother](https://www.goodreads.com/review/show/8006430490?utm_medium=api&utm_source=rss) by Byrd Baylor (⭐⭐)
+- [The Mysteries of Harris Burdick](https://www.goodreads.com/review/show/8033782069?utm_medium=api&utm_source=rss) by Chris Van Allsburg (⭐⭐⭐⭐)
+- [The Arrival](https://www.goodreads.com/review/show/8033781184?utm_medium=api&utm_source=rss) by Shaun Tan (⭐⭐⭐⭐⭐)
+- [The Fish and the Cat](https://www.goodreads.com/review/show/8033780550?utm_medium=api&utm_source=rss) by Marianne Dubuc (⭐⭐⭐⭐)
+- [The Giving Tree](https://www.goodreads.com/review/show/8033780038?utm_medium=api&utm_source=rss) by Shel Silverstein (⭐⭐⭐⭐)
+- [The Book that Proves Time Travel Happens](https://www.goodreads.com/review/show/8033778773?utm_medium=api&utm_source=rss) by Henry Clark (⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 <!-- #### Some Stats 👷 -->
