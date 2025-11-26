@@ -32,11 +32,11 @@ I honestly hope this list will never end.
 
 #### Last 5 Books I've Read 🤓
 <!-- GOODREADS-READ-LIST:START -->
+- [Usagi Yojimbo Saga, Vol. 2](https://www.goodreads.com/review/show/8004126483?utm_medium=api&utm_source=rss) by Stan Sakai (⭐⭐⭐⭐)
 - [The Mysteries of Harris Burdick](https://www.goodreads.com/review/show/8033782069?utm_medium=api&utm_source=rss) by Chris Van Allsburg (⭐⭐⭐⭐)
 - [The Arrival](https://www.goodreads.com/review/show/8033781184?utm_medium=api&utm_source=rss) by Shaun Tan (⭐⭐⭐⭐⭐)
 - [The Fish and the Cat](https://www.goodreads.com/review/show/8033780550?utm_medium=api&utm_source=rss) by Marianne Dubuc (⭐⭐⭐⭐)
 - [The Giving Tree](https://www.goodreads.com/review/show/8033780038?utm_medium=api&utm_source=rss) by Shel Silverstein (⭐⭐⭐⭐)
-- [The Book that Proves Time Travel Happens](https://www.goodreads.com/review/show/8033778773?utm_medium=api&utm_source=rss) by Henry Clark (⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 <!-- #### Some Stats 👷 -->
