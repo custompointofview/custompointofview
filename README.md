@@ -32,11 +32,11 @@ I honestly hope this list will never end.
 
 #### Last 5 Books I've Read 🤓
 <!-- GOODREADS-READ-LIST:START -->
-- [Usagi Yojimbo Saga, Vol. 2](https://www.goodreads.com/review/show/8004126483?utm_medium=api&utm_source=rss) by Stan Sakai (⭐⭐⭐⭐)
-- [The Mysteries of Harris Burdick](https://www.goodreads.com/review/show/8033782069?utm_medium=api&utm_source=rss) by Chris Van Allsburg (⭐⭐⭐⭐)
-- [The Arrival](https://www.goodreads.com/review/show/8033781184?utm_medium=api&utm_source=rss) by Shaun Tan (⭐⭐⭐⭐⭐)
-- [The Fish and the Cat](https://www.goodreads.com/review/show/8033780550?utm_medium=api&utm_source=rss) by Marianne Dubuc (⭐⭐⭐⭐)
-- [The Giving Tree](https://www.goodreads.com/review/show/8033780038?utm_medium=api&utm_source=rss) by Shel Silverstein (⭐⭐⭐⭐)
+- [The Walking Man](https://www.goodreads.com/review/show/8127605792?utm_medium=api&utm_source=rss) by Jirō Taniguchi (⭐⭐⭐⭐)
+- [Private Opinion: Banana Fish Another Story](https://www.goodreads.com/review/show/8124986097?utm_medium=api&utm_source=rss) by Akimi Yoshida (⭐⭐⭐⭐)
+- [Banana Fish, Vol. 19](https://www.goodreads.com/review/show/8124985777?utm_medium=api&utm_source=rss) by Akimi Yoshida (⭐⭐⭐⭐⭐)
+- [Banana Fish, Vol. 18](https://www.goodreads.com/review/show/8124985533?utm_medium=api&utm_source=rss) by Akimi Yoshida (⭐⭐⭐⭐⭐)
+- [Banana Fish, Vol. 17](https://www.goodreads.com/review/show/8124985199?utm_medium=api&utm_source=rss) by Akimi Yoshida (⭐⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 <!-- #### Some Stats 👷 -->
