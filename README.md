@@ -32,11 +32,11 @@ I honestly hope this list will never end.
 
 #### Last 5 Books I've Read 🤓
 <!-- GOODREADS-READ-LIST:START -->
-- [The Walking Man](https://www.goodreads.com/review/show/8127605792?utm_medium=api&utm_source=rss) by Jirō Taniguchi (⭐⭐⭐⭐)
-- [Private Opinion: Banana Fish Another Story](https://www.goodreads.com/review/show/8124986097?utm_medium=api&utm_source=rss) by Akimi Yoshida (⭐⭐⭐⭐)
-- [Banana Fish, Vol. 19](https://www.goodreads.com/review/show/8124985777?utm_medium=api&utm_source=rss) by Akimi Yoshida (⭐⭐⭐⭐⭐)
-- [Banana Fish, Vol. 18](https://www.goodreads.com/review/show/8124985533?utm_medium=api&utm_source=rss) by Akimi Yoshida (⭐⭐⭐⭐⭐)
-- [Banana Fish, Vol. 17](https://www.goodreads.com/review/show/8124985199?utm_medium=api&utm_source=rss) by Akimi Yoshida (⭐⭐⭐⭐⭐)
+- [Astro Boy, Vol. 3](https://www.goodreads.com/review/show/8165534988?utm_medium=api&utm_source=rss) by Osamu Tezuka (⭐⭐⭐⭐)
+- [Basilisk: The Kouga Ninja Scrolls, Vol. 5](https://www.goodreads.com/review/show/8163787502?utm_medium=api&utm_source=rss) by Masaki Segawa (⭐⭐⭐)
+- [Basilisk: The Kouga Ninja Scrolls, Vol. 4](https://www.goodreads.com/review/show/8163787428?utm_medium=api&utm_source=rss) by Masaki Segawa (⭐⭐⭐)
+- [Basilisk: The Kouga Ninja Scrolls, Vol. 3](https://www.goodreads.com/review/show/8163787392?utm_medium=api&utm_source=rss) by Masaki Segawa (⭐⭐⭐)
+- [Basilisk: The Kouga Ninja Scrolls, Vol. 2](https://www.goodreads.com/review/show/8163787361?utm_medium=api&utm_source=rss) by Masaki Segawa (⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 <!-- #### Some Stats 👷 -->
