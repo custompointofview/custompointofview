@@ -32,11 +32,11 @@ I honestly hope this list will never end.
 
 #### Last 5 Books I've Read 🤓
 <!-- GOODREADS-READ-LIST:START -->
-- [Astro Boy, Vol. 3](https://www.goodreads.com/review/show/8165534988?utm_medium=api&utm_source=rss) by Osamu Tezuka (⭐⭐⭐⭐)
-- [Basilisk: The Kouga Ninja Scrolls, Vol. 5](https://www.goodreads.com/review/show/8163787502?utm_medium=api&utm_source=rss) by Masaki Segawa (⭐⭐⭐)
-- [Basilisk: The Kouga Ninja Scrolls, Vol. 4](https://www.goodreads.com/review/show/8163787428?utm_medium=api&utm_source=rss) by Masaki Segawa (⭐⭐⭐)
-- [Basilisk: The Kouga Ninja Scrolls, Vol. 3](https://www.goodreads.com/review/show/8163787392?utm_medium=api&utm_source=rss) by Masaki Segawa (⭐⭐⭐)
-- [Basilisk: The Kouga Ninja Scrolls, Vol. 2](https://www.goodreads.com/review/show/8163787361?utm_medium=api&utm_source=rss) by Masaki Segawa (⭐⭐⭐)
+- [The Black Swindler Vol. 3](https://www.goodreads.com/review/show/8231928837?utm_medium=api&utm_source=rss) by Kuromaru (⭐⭐⭐)
+- [The Black Swindler Vol. 2](https://www.goodreads.com/review/show/8231928792?utm_medium=api&utm_source=rss) by Kuromaru (⭐⭐⭐)
+- [The Black Swindler Vol. 1](https://www.goodreads.com/review/show/8231928737?utm_medium=api&utm_source=rss) by Kuromaru (⭐⭐⭐)
+- [あさドラ! 6 [Asadora! 6]](https://www.goodreads.com/review/show/8231916085?utm_medium=api&utm_source=rss) by Naoki Urasawa (⭐⭐⭐⭐)
+- [あさドラ! 5 [Asadora! 5]](https://www.goodreads.com/review/show/8231916001?utm_medium=api&utm_source=rss) by Naoki Urasawa (⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 <!-- #### Some Stats 👷 -->
