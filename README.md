@@ -32,11 +32,11 @@ I honestly hope this list will never end.
 
 #### Last 5 Books I've Read 🤓
 <!-- GOODREADS-READ-LIST:START -->
-- [The Black Swindler Vol. 3](https://www.goodreads.com/review/show/8231928837?utm_medium=api&utm_source=rss) by Kuromaru (⭐⭐⭐)
-- [The Black Swindler Vol. 2](https://www.goodreads.com/review/show/8231928792?utm_medium=api&utm_source=rss) by Kuromaru (⭐⭐⭐)
-- [The Black Swindler Vol. 1](https://www.goodreads.com/review/show/8231928737?utm_medium=api&utm_source=rss) by Kuromaru (⭐⭐⭐)
-- [あさドラ! 6 [Asadora! 6]](https://www.goodreads.com/review/show/8231916085?utm_medium=api&utm_source=rss) by Naoki Urasawa (⭐⭐⭐⭐)
-- [あさドラ! 5 [Asadora! 5]](https://www.goodreads.com/review/show/8231916001?utm_medium=api&utm_source=rss) by Naoki Urasawa (⭐⭐⭐⭐)
+- [チェンソーマン 23 [Chainsaw Man 23]](https://www.goodreads.com/review/show/8273673268?utm_medium=api&utm_source=rss) by Tatsuki Fujimoto (unrated)
+- [チェンソーマン 22 [Chainsaw Man 22]](https://www.goodreads.com/review/show/8273669476?utm_medium=api&utm_source=rss) by Tatsuki Fujimoto (⭐⭐⭐⭐)
+- [チェンソーマン 21 [Chainsaw Man 21]](https://www.goodreads.com/review/show/8273669437?utm_medium=api&utm_source=rss) by Tatsuki Fujimoto (⭐⭐⭐⭐)
+- [チェンソーマン 20 [Chainsaw Man 20]](https://www.goodreads.com/review/show/8273669408?utm_medium=api&utm_source=rss) by Tatsuki Fujimoto (⭐⭐⭐⭐)
+- [チェンソーマン 19 [Chainsaw Man 19]](https://www.goodreads.com/review/show/8273669392?utm_medium=api&utm_source=rss) by Tatsuki Fujimoto (⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 <!-- #### Some Stats 👷 -->
