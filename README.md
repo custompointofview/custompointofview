@@ -32,11 +32,11 @@ I honestly hope this list will never end.
 
 #### Last 5 Books I've Read 🤓
 <!-- GOODREADS-READ-LIST:START -->
-- [チェンソーマン 23 [Chainsaw Man 23]](https://www.goodreads.com/review/show/8273673268?utm_medium=api&utm_source=rss) by Tatsuki Fujimoto (unrated)
-- [チェンソーマン 22 [Chainsaw Man 22]](https://www.goodreads.com/review/show/8273669476?utm_medium=api&utm_source=rss) by Tatsuki Fujimoto (⭐⭐⭐⭐)
-- [チェンソーマン 21 [Chainsaw Man 21]](https://www.goodreads.com/review/show/8273669437?utm_medium=api&utm_source=rss) by Tatsuki Fujimoto (⭐⭐⭐⭐)
-- [チェンソーマン 20 [Chainsaw Man 20]](https://www.goodreads.com/review/show/8273669408?utm_medium=api&utm_source=rss) by Tatsuki Fujimoto (⭐⭐⭐⭐)
-- [チェンソーマン 19 [Chainsaw Man 19]](https://www.goodreads.com/review/show/8273669392?utm_medium=api&utm_source=rss) by Tatsuki Fujimoto (⭐⭐⭐⭐)
+- [フールナイト 11 [Fool Night 11]](https://www.goodreads.com/review/show/8318134835?utm_medium=api&utm_source=rss) by Kasumi Yasuda (⭐⭐⭐⭐)
+- [フールナイト 10 [Fool Night 10]](https://www.goodreads.com/review/show/8318133262?utm_medium=api&utm_source=rss) by Kasumi Yasuda (⭐⭐⭐⭐)
+- [Fool Night, tome 9](https://www.goodreads.com/review/show/8318132226?utm_medium=api&utm_source=rss) by Kasumi Yasuda (⭐⭐⭐⭐)
+- [フールナイト 8 [Fool Night 8]](https://www.goodreads.com/review/show/8318131567?utm_medium=api&utm_source=rss) by Kasumi Yasuda (⭐⭐⭐⭐⭐)
+- [フールナイト 7 [Fool Night 7]](https://www.goodreads.com/review/show/8318130782?utm_medium=api&utm_source=rss) by Kasumi Yasuda (⭐⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 <!-- #### Some Stats 👷 -->
